@@ -175,10 +175,14 @@ def command_gallery(args: argparse.Namespace) -> None:
             f"observation {item.get('observation_id')} · "
             f"{item.get('taxon_name') or item.get('species_guess') or 'unknown taxon'}"
         )
+        explanation = (
+            f'<p><strong>Пояснение:</strong> {html.escape(item["special_notes"])}</p>'
+            if item.get("special_notes") else ""
+        )
         cards.append(
             f'<article><a href="{observation_url}" target="_blank" rel="noreferrer">{label}</a>'
             f'<br><a href="{image_url}" target="_blank" rel="noreferrer">'
-            f'<img loading="lazy" src="{preview_url}" alt="{photo_id}"></a></article>'
+            f'<img loading="lazy" src="{preview_url}" alt="{photo_id}"></a>{explanation}</article>'
         )
     document = """<!doctype html><meta charset="utf-8"><title>iNaturalist candidates</title>
 <style>body{font-family:system-ui;margin:16px}main{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}article{border:1px solid #ddd;padding:8px;overflow-wrap:anywhere}img{width:100%;max-height:300px;object-fit:contain;background:#f4f4f4}</style>
