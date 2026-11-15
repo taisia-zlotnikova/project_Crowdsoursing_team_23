@@ -1,0 +1,10 @@
+{
+  "checked": 30,
+  "download_or_decode_failed": 0,
+  "byte_duplicates": 0,
+  "photo_id_duplicates": 0,
+  "observation_id_duplicates": 0,
+  "overlap_with_data_photo_ids": 0,
+  "overlap_with_data_observation_ids": 0,
+  "overlap_with_data_sha256": 0
+}
