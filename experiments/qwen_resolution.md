@@ -38,11 +38,17 @@ Baseline:
 Увеличенное разрешение:
 
 ```bash
-.venv/bin/python -m inference.run --dataset data/annotations.csv --config inference/configs/qwen_maxpixels_1048576.json --models qwen3-vl --output runs/qwen-maxpixels-1048576 --device auto
+.venv/bin/python -m inference.run --dataset data/annotations.csv --config inference/configs/qwen_maxpixels_1048576.json --models qwen3-vl --output runs/qwen-maxpixels-1048576 --device auto --resume
+```
+
+После успешного завершения инференса:
+
+```bash
 .venv/bin/python -m inference.evaluate --run runs/qwen-maxpixels-1048576
 ```
 
-Для продолжения используется та же команда инференса с `--resume`.
+`--resume` запускает обработку с нуля при отсутствии папки результатов либо
+продолжает совместимый запуск, пропуская сохранённые успешные ответы.
 Для независимого повтора указывается новая папка `--output`.
 
 ## Оценка

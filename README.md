@@ -168,11 +168,20 @@ TP, FP и FN суммируются по всем фотографиям до р
 из 400 фотографий. Baseline и эксперимент выполняются на одном устройстве.
 
 ```bash
-.venv/bin/python -m inference.run --dataset data/annotations.csv --config inference/configs/qwen_maxpixels_1048576.json --models qwen3-vl --output runs/qwen-maxpixels-1048576 --device auto
+.venv/bin/python -m inference.run --dataset data/annotations.csv --config inference/configs/qwen_maxpixels_1048576.json --models qwen3-vl --output runs/qwen-maxpixels-1048576 --device auto --resume
+```
+
+`--resume` создаёт новый запуск, если папки результатов ещё нет, либо продолжает
+совместимый запуск и пропускает сохранённые успешные ответы. Для независимого
+повтора укажите новую папку `--output`.
+
+После успешного завершения инференса рассчитайте метрики:
+
+```bash
 .venv/bin/python -m inference.evaluate --run runs/qwen-maxpixels-1048576
 ```
 
-Для продолжения добавьте `--resume` к команде инференса. В дашборде выберите
+В дашборде выберите
 эксперимент `qwen-maxpixels-1048576`, откройте вкладку «Эксперименты» и сравните
 с `baseline`. Сравниваются F1@0.5, F1@0.75, Precision, Recall, TP/FP/FN,
 ложные находки на пустых фото и время обработки.
@@ -184,10 +193,10 @@ TP, FP и FN суммируются по всем фотографиям до р
 После расчёта метрик запустите приложение:
 
 ```bash
-.venv/bin/python -m streamlit run dashboard/app.py --server.address 127.0.0.1 --server.port 8501 --server.headless true --browser.gatherUsageStats false
+.venv/bin/python -m streamlit run dashboard/app.py --server.address 127.0.0.1 --server.port 8502 --server.headless true --browser.gatherUsageStats false
 ```
 
-Откройте <http://127.0.0.1:8501> и выберите эксперимент в боковой панели.
+Откройте <http://127.0.0.1:8502> и выберите эксперимент в боковой панели.
 Доступны четыре вкладки:
 
 - **Модели** — таблица метрик, график качества, конфигурация и экспорт CSV.
