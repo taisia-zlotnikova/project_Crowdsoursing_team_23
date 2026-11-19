@@ -1,0 +1,337 @@
+{
+  "39929608": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.1415075376884422,
+          "top": 0.23,
+          "width": 0.756422110552764,
+          "height": 0.38250000000000006
+        }
+      ]
+    }
+  },
+  "52081455": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.105,
+          "top": 0.2825,
+          "width": 0.73,
+          "height": 0.6525000000000001
+        }
+      ]
+    }
+  },
+  "75129906": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.18625,
+          "top": 0.1425,
+          "width": 0.595,
+          "height": 0.7325
+        }
+      ]
+    }
+  },
+  "113231341": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.10103611349957009,
+          "top": 0.10250000000000001,
+          "width": 0.8196732588134137,
+          "height": 0.7424999999999999
+        }
+      ]
+    }
+  },
+  "129655071": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.0891448974609375,
+          "top": 0.13499999999999998,
+          "width": 0.85645751953125,
+          "height": 0.6124999999999999
+        }
+      ]
+    }
+  },
+  "140960377": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.28494761029411764,
+          "top": 0.34249999999999997,
+          "width": 0.533235294117647,
+          "height": 0.315
+        }
+      ]
+    }
+  },
+  "180452596": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.4578834227044819,
+          "top": 0.40180892233570437,
+          "width": 0.09328280115897036,
+          "height": 0.2256142167565794
+        }
+      ]
+    }
+  },
+  "213133918": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.3416666666666666,
+          "top": 0.52,
+          "width": 0.21666666666666673,
+          "height": 0.09250000000000003
+        }
+      ]
+    }
+  },
+  "238619473": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.165,
+          "top": 0.47,
+          "width": 0.38,
+          "height": 0.18500000000000005
+        }
+      ]
+    }
+  },
+  "297914426": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.48781494140625,
+          "top": 0.26416664123535155,
+          "width": 0.30447509765624997,
+          "height": 0.55
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.37322753906249995,
+          "top": 0.01666664123535156,
+          "width": 0.09821777343749999,
+          "height": 0.3575
+        }
+      ]
+    }
+  },
+  "310119217": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.10606077348066298,
+          "top": 0.039999999999999994,
+          "width": 0.6954364640883978,
+          "height": 0.84
+        }
+      ]
+    }
+  },
+  "310422886": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.2593246753246753,
+          "top": 0.275,
+          "width": 0.7225627705627705,
+          "height": 0.355
+        }
+      ]
+    }
+  },
+  "408860487": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.4856341354995869,
+          "top": 0.2817881944444444,
+          "width": 0.3281353650277261,
+          "height": 0.21098572530864196
+        }
+      ]
+    }
+  },
+  "506629048": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.03875,
+          "top": 0.3228472222222222,
+          "width": 0.788587962962963,
+          "height": 0.44215277777777784
+        }
+      ]
+    }
+  },
+  "515346648": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "NO_BUTTERFLY",
+      "result": []
+    }
+  },
+  "541247761": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.251953125,
+          "top": 0.0475,
+          "width": 0.6198046875,
+          "height": 0.7775000000000001
+        }
+      ]
+    }
+  },
+  "659632202": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "NO_BUTTERFLY",
+      "result": []
+    }
+  },
+  "676854909": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.524827880859375,
+          "top": 0.085,
+          "width": 0.36729248046874996,
+          "height": 0.6400000000000001
+        }
+      ]
+    }
+  },
+  "680265292": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.4911111111111111,
+          "top": 0.4575,
+          "width": 0.24888888888888888,
+          "height": 0.10499999999999998
+        }
+      ]
+    }
+  },
+  "738036749": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.2669262295081967,
+          "top": 0.38749999999999996,
+          "width": 0.37081967213114747,
+          "height": 0.245
+        }
+      ]
+    }
+  },
+  "743433072": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "NO_BUTTERFLY",
+      "result": []
+    }
+  },
+  "745859461": {
+    "verdict": "GOOD",
+    "reason": "Final requester decision",
+    "corrected_output_values": {
+      "status": "HAS_BUTTERFLY",
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.1866863103363778,
+          "top": 0.35190323036670335,
+          "width": 0.3678207235487375,
+          "height": 0.22225604449250635
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+platform/private/
+platform/exports/raw/
+operations/
+annotations/bbox_answers.jsonl
+annotations/review_answers.jsonl
+data/images/original/
+
+# Clean workflow: credentials and execution journals stay local
+.venv-clean/
+clean_annotation/private/
+README_legacy_local.md

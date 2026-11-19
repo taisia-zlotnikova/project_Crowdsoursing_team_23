@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Верно ли выделены бабочки?</title>
+  <style>
+    .butterfly-review { max-width: 960px; margin: 24px auto; padding: 0 16px 32px; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; }
+    .butterfly-review h1 { font-size: 26px; }
+    .butterfly-review h2 { margin-top: 24px; font-size: 21px; }
+    .butterfly-review h3 { margin-top: 24px; font-size: 17px; }
+    .butterfly-review li { margin-bottom: 8px; }
+    .butterfly-review table { width: 100%; border-collapse: collapse; }
+    .butterfly-review th, .butterfly-review td { padding: 8px 10px; border: 1px solid #ddd; text-align: left; vertical-align: top; }
+    .butterfly-review img { display: block; width: 50%; height: auto; }
+  </style>
+</head>
+<body>
+<div class="butterfly-review">
+  <h1>Верно ли выделены бабочки?</h1>
+  <p>Проверьте фотографию, рамки и ответ разметчика. Выберите один ответ для всей разметки. Перерисовывать рамки не нужно.</p>
+
+  <h2>Как проверить</h2>
+  <ol>
+    <li><strong>Осмотрите весь кадр</strong>, включая края и фон. Найдите всех взрослых бабочек. При необходимости увеличьте фото.</li>
+    <li><strong>У каждой бабочки должна быть одна отдельная рамка.</strong> Пропуски, несколько бабочек в общей рамке и повторные рамки — ошибки.</li>
+    <li><strong>Проверьте границы:</strong> все видимые крылья, тело, усики и лапки должны быть внутри, без большого запаса фона. При перекрытии бабочки или её обрезании краем кадра учитывайте только её видимую часть.</li>
+    <li><strong>Проверьте лишние рамки.</strong> Цветы, моль, другие насекомые, гусеницы, куколки и тени не размечаются.</li>
+    <li><strong>Если рамок нет</strong>, убедитесь, что взрослых бабочек действительно нет и разметчик выбрал «Бабочек нет». Если на таком чётком кадре он выбрал «Не уверен», это ошибка.</li>
+  </ol>
+  <p><strong>Небольшие отклонения границ допустимы.</strong> Не считайте ошибкой только то, что сами нарисовали бы немного иначе.</p>
+
+  <h2>Какой ответ выбрать</h2>
+  <table>
+    <thead>
+      <tr><th scope="col">Ответ</th><th scope="col">Когда выбрать</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Всё верно</strong></td><td>Все бабочки выделены правильно, лишних рамок нет, ответ разметчика соответствует фото. Если бабочек нет — рамки отсутствуют и выбран ответ «Бабочек нет».</td></tr>
+      <tr><td><strong>Есть ошибка</strong></td><td>Вы нашли хотя бы одну конкретную ошибку в разметке или ответе разметчика.</td></tr>
+      <tr><td><strong>Не уверен</strong></td><td>Вы сами не можете уверенно определить объект или оценить разметку из-за недостатка деталей.</td></tr>
+      <tr><td><strong>Изображение не загрузилось</strong></td><td>Фотография не открылась даже после обновления страницы.</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Примеры проверки</h2>
+  <p>Картинки можно открыть крупнее нажатием.</p>
+
+  <h3>Правильная рамка — «Всё верно»</h3>
+  <a href="https://i.postimg.cc/8zqQg7Mf/01-correct-single.png" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/8zqQg7Mf/01-correct-single.png" alt="Бабочка в правильной рамке"></a>
+  <p>Бабочка целиком внутри отдельной рамки. Ответ разметчика — «Бабочки есть».</p>
+
+  <h3>Рамка обрезает крыло — «Есть ошибка»</h3>
+  <a href="https://i.postimg.cc/N0mhsQk0/03-error-too-small.png" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/N0mhsQk0/03-error-too-small.png" alt="Рамка обрезает видимую часть крыла"></a>
+  <p>Видимая часть крыла осталась за рамкой.</p>
+
+  <h3>Слишком много фона — «Есть ошибка»</h3>
+  <a href="https://i.postimg.cc/qv9VHNyh/04-error-too-large.png" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/qv9VHNyh/04-error-too-large.png" alt="Рамка захватывает много лишнего фона"></a>
+  <p>Вокруг бабочки оставлен большой запас фона.</p>
+
+  <h3>Бабочка пропущена — «Есть ошибка»</h3>
+  <a href="https://i.postimg.cc/8ckxmMQt/05-error-missing-butterfly.png" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/8ckxmMQt/05-error-missing-butterfly.png" alt="Одна из двух бабочек без рамки"></a>
+  <p>На фотографии две бабочки, а рамка только у одной.</p>
+
+  <h3>Гусеница без рамки — «Всё верно»</h3>
+  <a href="https://inaturalist-open-data.s3.amazonaws.com/photos/276332304/original.jpg" target="_blank" rel="noopener noreferrer"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/276332304/original.jpg" alt="Гусеница без рамки"></a>
+  <p>Это гусеница, а не взрослая бабочка. Рамок нет, ответ разметчика — «Бабочек нет».</p>
+
+  <h3>Куколка без рамки — «Всё верно»</h3>
+  <a href="https://inaturalist-open-data.s3.amazonaws.com/photos/425194321/original.png" target="_blank" rel="noopener noreferrer"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/425194321/original.png" alt="Куколка без рамки"></a>
+  <p>Это куколка, а не взрослая бабочка. Рамок нет, ответ разметчика — «Бабочек нет».</p>
+
+  <h3>Цветы без рамок — «Всё верно»</h3>
+  <a href="https://inaturalist-open-data.s3.amazonaws.com/photos/57369797/original.jpeg" target="_blank" rel="noopener noreferrer"><img src="https://inaturalist-open-data.s3.amazonaws.com/photos/57369797/original.jpeg" alt="Цветы без бабочек и без рамок"></a>
+  <p>Взрослых бабочек нет. Рамок нет, ответ разметчика — «Бабочек нет».</p>
+
+  <h3>Рамки вокруг цветов — «Есть ошибка»</h3>
+  <a href="https://i.postimg.cc/x8jB3MD5/06-error-flower-boxes.png" target="_blank" rel="noopener noreferrer"><img src="https://i.postimg.cc/x8jB3MD5/06-error-flower-boxes.png" alt="Лишние рамки вокруг цветов"></a>
+  <p>Рамки выделяют цветы. Взрослых бабочек нет: нужен ответ «Бабочек нет» без рамок.</p>
+</div>
+</body>
+</html>

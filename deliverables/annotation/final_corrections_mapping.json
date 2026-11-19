@@ -1,0 +1,17 @@
+[
+  {
+    "id": "0",
+    "photo_id": "180452596",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/180452596/original.jpeg"
+  },
+  {
+    "id": "1",
+    "photo_id": "297914426",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/297914426/original.jpeg"
+  },
+  {
+    "id": "2",
+    "photo_id": "745859461",
+    "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/745859461/original.jpg"
+  }
+]

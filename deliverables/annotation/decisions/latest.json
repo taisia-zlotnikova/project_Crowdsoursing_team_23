@@ -1,0 +1,6170 @@
+{
+  "downloaded_at_utc": "2026-11-18T21:48:34.616418+00:00",
+  "summary": {
+    "OK": 378,
+    "MANUAL_OK": 7,
+    "PENDING_OR_DISPUTE": 5,
+    "REWORK": 9,
+    "SOURCE_MANUAL": 1
+  },
+  "exact_reviews_latest_version": {
+    "3": 399,
+    "0": 1
+  },
+  "rework_photos": [
+    "180452596",
+    "238619473",
+    "310422886",
+    "39929608",
+    "52081455",
+    "659632202",
+    "738036749",
+    "743433072",
+    "745859461"
+  ],
+  "manual_photos": [
+    "297914426"
+  ],
+  "photos": [
+    {
+      "photo_id": "101049170",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce3b9d5d23603d6768c4d_000068cedc--6afc74d37e139c70ad6fda96_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "108385728",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd726a6fd8607c6c73bfde_000068d018--6afcd8c5e8533a6b98216b34_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "111833228",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7238409e22184e0ce584_000068d018--6afcd8c5e8533a6b98216b38_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "113231341",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd735eb0dc860f4168234c_000068d018--6afcd8c5e8533a6b98216b3c_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 0,
+      "BAD": 2,
+      "other": 1,
+      "status": "MANUAL_OK",
+      "trusted_votes": {
+        "UNSURE": 1,
+        "BAD": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "113469530",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2ed421b4afb0ba4f4_000068d018--6afcd8c5e8533a6b98216b40_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "114814520",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce618ed421b4afbfa921f_000068d018--6afcd8c5e8533a6b98216b44_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "118257684",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72bf409e22184e0d0066_000068d018--6afcd8c6e8533a6b98216b48_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "119577456",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe107cfbab195e3ddf86a7_000068d3ae--6afe0fbe10ba53010e12fdaf_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "124611573",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce70b409e22184efa437b_000068d018--6afcd8c6e8533a6b98216b50_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "128610681",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd730bebb1521ae812d0a3_000068d018--6afcd8c6e8533a6b98216b54_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "129655071",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a6ed421b4afb0b8e3e_000068d018--6afcd8c6e8533a6b98216b58_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 1,
+      "other": 1,
+      "status": "PENDING_OR_DISPUTE",
+      "trusted_votes": {
+        "OK": 1,
+        "IMAGE_ERROR": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "130795404",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10e9ef0654541c8e294d_000068d3ae--6afdac0af7bef76b7f28a874_v1",
+      "worker_id": "worker_8ebdc9863b673b0c",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "131065184",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72a36fd8607c6c73cdbc_000068d018--6afcd8c6e8533a6b98216b6e_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "140456299",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd73063537ac5dbb51c384_000068d018--6afcd8c6e8533a6b98216b72_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "140960377",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce66dfe68256bfdc27731_000068d018--6afcd8c6e8533a6b98216b77_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "MANUAL_OK",
+      "trusted_votes": {
+        "BAD": 2,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "141224925",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd730bebb1521ae812d0a3_000068d018--6afcd8c6e8533a6b98216b7b_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "141504614",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72b6409e22184e0cfe8e_000068d018--6afcd8c6e8533a6b98216b83_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "141651109",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd724ced421b4afb0bbb12_000068d018--6afcd8c6e8533a6b98216b87_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "144006205",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd735eb0dc860f4168234c_000068d018--6afcd8c6e8533a6b98216b8b_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "146526256",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5fe55eb9f701dc085ad_000068d018--6afcd8c6e8533a6b98216b90_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "146575732",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7249ee5596557a7a1340_000068d018--6afcd8c6e8533a6b98216b94_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "147669286",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce6ebee5596557a67da25_000068d018--6afcd8c6e8533a6b98216b98_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "149265607",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102bfbab195e3ddf7850_000068d3ae--6afdac0af7bef76b7f28a87c_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "149876454",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7249ee5596557a7a1340_000068d018--6afcd8c6e8533a6b98216ba0_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "150415826",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce37aee5596557a679f17_000068cedc--6afc74d47e139c70ad6fdac2_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "155664146",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7342ed421b4afb0bf28b_000068d018--6afcd8c6e8533a6b98216ba4_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "UNSURE": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "159993633",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72e1ebb1521ae812c319_000068d018--6afcd8c6e8533a6b98216ba8_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "161610231",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7359409e22184e0d2297_000068d018--6afcd8c6e8533a6b98216bac_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "163718354",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7342ed421b4afb0bf28b_000068d018--6afcd8c6e8533a6b98216bb0_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "164626261",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd720b55eb9f701dd34757_000068d018--6afcd8c6e8533a6b98216bb4_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "167192168",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72913537ac5dbb51a776_000068d018--6afcd8c6e8533a6b98216bb8_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "170110507",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72e1ebb1521ae812c319_000068d018--6afcd8c6e8533a6b98216bbc_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "178169446",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f7fe68256bfdd349ea_000068d018--6afcd8c6e8533a6b98216bc0_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "178170244",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72b6409e22184e0cfe8e_000068d018--6afcd8c6e8533a6b98216bc4_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "180452596",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe104cfbab195e3ddf7de9_000068d3ae--6afe0fbe10ba53010e12fdb3_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "BAD": 2,
+        "OK": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "180973374",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7326fe68256bfdd386b7_000068d018--6afcd8c7e8533a6b98216bcc_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "181260887",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce66dfe68256bfdc27731_000068d018--6afcd8c7e8533a6b98216bd0_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "186307028",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7272ee5596557a7a1c97_000068d018--6afcd8c7e8533a6b98216bd4_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 0,
+      "other": 2,
+      "status": "OK",
+      "trusted_votes": {
+        "IMAGE_ERROR": 2,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "186455005",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7375ee5596557a7a5b81_000068d018--6afcd8c7e8533a6b98216bd8_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "187229290",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719ced421b4afb0b8ccd_000068d018--6afcd8c7e8533a6b98216bdc_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "19297850",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7239b0dc860f4167e1d4_000068d018--6afcd8c4e8533a6b98216a8e_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "197663379",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72befe68256bfdd37238_000068d018--6afcd8c7e8533a6b98216be0_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "199641047",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7239b0dc860f4167e1d4_000068d018--6afcd8c7e8533a6b98216be4_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "199719466",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce35555eb9f701dc05877_000068cedc--6afc74d47e139c70ad6fdaba_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "200775909",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd737db0dc860f416829d2_000068d018--6afcd8c7e8533a6b98216be8_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "200979832",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10caa6287e79d3d3ee65_000068d3ae--6afdac0af7bef76b7f28a881_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "201973587",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71aad5d23603d68803cd_000068d018--6afcd8c7e8533a6b98216bf0_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "202157535",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd731f6fd8607c6c73e9b2_000068d018--6afcd8c7e8533a6b98216bf4_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "204658109",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71eeee5596557a79fff6_000068d018--6afcd8c7e8533a6b98216bf8_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "206895745",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7243fe68256bfdd3577e_000068d018--6afcd8c7e8533a6b98216bfc_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "209383667",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72bf409e22184e0d0066_000068d018--6afcd8c7e8533a6b98216c00_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "212215404",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211b0dc860f4167dbc5_000068d018--6afcd8c8e8533a6b98216c04_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "UNSURE": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "212360132",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7386ee5596557a7a5fed_000068d018--6afcd8c8e8533a6b98216c08_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "212488345",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce63b1fe8560b8a982ce8_000068d018--6afcd8c8e8533a6b98216c0c_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "213133918",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5b9409e22184efa27b0_000068d018--6afcd8c8e8533a6b98216c14_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "MANUAL_OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "214160254",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce66dfe68256bfdc27731_000068d018--6afcd8c8e8533a6b98216c18_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "217369699",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7342ed421b4afb0bf28b_000068d018--6afcd8c8e8533a6b98216c2a_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "218737709",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7243fe68256bfdd3577e_000068d018--6afcd8c8e8533a6b98216c30_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "220523041",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce6c955eb9f701dc095de_000068d018--6afcd8c8e8533a6b98216c34_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "221596573",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10caa6287e79d3d3ee65_000068d3ae--6afdac0af7bef76b7f28a889_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "222654420",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd732dfe68256bfdd388b6_000068d018--6afcd8c8e8533a6b98216c45_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "222851197",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71aad5d23603d68803cd_000068d018--6afcd8c8e8533a6b98216c4d_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "223932812",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72c86fd8607c6c73d637_000068d018--6afcd8c8e8533a6b98216c53_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "226365817",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd73486fd8607c6c73f240_000068d018--6afcd8c8e8533a6b98216c57_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "232319015",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce39e1fe8560b8a9803a0_000068cedc--6afc74d37e139c70ad6fdaaa_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "232628561",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72ab3537ac5dbb51ac32_000068d018--6afcd8c8e8533a6b98216c5b_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "232976659",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211ed421b4afb0baf01_000068d018--6afcd8c8e8533a6b98216c5f_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "233293506",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7354ee5596557a7a5153_000068d018--6afcd8c8e8533a6b98216c63_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "233778243",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f7ee5596557a7a3a27_000068d018--6afcd8c8e8533a6b98216c6b_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "234303485",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719105a3672b203989ad_000068d018--6afcd8c8e8533a6b98216c6f_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "235629334",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd732dfe68256bfdd388b6_000068d018--6afcd8c9e8533a6b98216c81_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "23808622",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72da55eb9f701dd378c4_000068d018--6afcd8c4e8533a6b98216a93_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "238325459",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce653d5d23603d676bb66_000068d018--6afcd8c9e8533a6b98216c85_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "238332966",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5d7ebb1521ae8ff6a81_000068d018--6afcd8c9e8533a6b98216c8a_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "238619473",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1062ef0654541c8e1669_000068d3ae--6afe0fbe10ba53010e12fdb7_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "BAD": 2,
+        "OK": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "245342706",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10aefbab195e3ddf8c23_000068d3ae--6afdac0af7bef76b7f28a88d_v1",
+      "worker_id": "worker_8ebdc9863b673b0c",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "249192087",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd722d05a3672b2039a75e_000068d018--6afcd8c9e8533a6b98216c9b_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "249358542",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd73486fd8607c6c73f240_000068d018--6afcd8c9e8533a6b98216c9f_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "250608261",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2d5d23603d6880d88_000068d018--6afcd8c9e8533a6b98216ca3_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "251546149",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719b409e22184e0cca16_000068d018--6afcd8c9e8533a6b98216ca7_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "254944784",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71aad5d23603d68803cd_000068d018--6afcd8c9e8533a6b98216cab_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "262188902",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5fe55eb9f701dc085ad_000068d018--6afcd8c9e8533a6b98216caf_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "263552466",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1062ef0654541c8e1669_000068d3ae--6afe0fbe10ba53010e12fdc0_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "265288812",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102613c5a15cfd4dbaf3_000068d3ae--6afe0fbe10ba53010e12fdc8_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "265766731",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71cffe68256bfdd34399_000068d018--6afcd8cae8533a6b98216cbb_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "269094511",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72c86fd8607c6c73d637_000068d018--6afcd8cae8533a6b98216cbf_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "269693573",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a23537ac5dbb517502_000068d018--6afcd8cae8533a6b98216cc3_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "271106937",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd736febb1521ae812e660_000068d018--6afcd8cae8533a6b98216cc7_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "28323290",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72868ec2763353b9777d_000068d018--6afcd8c4e8533a6b98216a97_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "284041845",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729355eb9f701dd367be_000068d018--6afcd8cae8533a6b98216cd4_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "284614279",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102613c5a15cfd4dbaf3_000068d3ae--6afe0fbe10ba53010e12fdcc_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "28485219",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5fe55eb9f701dc085ad_000068d018--6afcd8c4e8533a6b98216a9b_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "285307115",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd73063537ac5dbb51c384_000068d018--6afcd8cae8533a6b98216cdc_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "285380298",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd728a409e22184e0cf5d9_000068d018--6afcd8cae8533a6b98216ce1_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "285629603",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f7ee5596557a7a3a27_000068d018--6afcd8cae8533a6b98216ce5_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "285660757",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7238409e22184e0ce584_000068d018--6afcd8cae8533a6b98216ce9_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "287086624",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f2fe68256bfdd3499a_000068d018--6afcd8cae8533a6b98216ced_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "287450545",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd73063537ac5dbb51c384_000068d018--6afcd8cae8533a6b98216cf1_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "287906913",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72693537ac5dbb519f12_000068d018--6afcd8cae8533a6b98216cf5_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "288350954",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729355eb9f701dd367be_000068d018--6afcd8cae8533a6b98216cf9_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "289494054",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a8ed421b4afb0b8e84_000068d018--6afcd8cae8533a6b98216cfd_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "290248312",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72a36fd8607c6c73cdbc_000068d018--6afcd8cae8533a6b98216d01_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "293125037",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2ed421b4afb0ba4f4_000068d018--6afcd8cae8533a6b98216d05_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "293804245",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72b6409e22184e0cfe8e_000068d018--6afcd8cae8533a6b98216d09_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "295012229",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a23537ac5dbb517502_000068d018--6afcd8cae8533a6b98216d0d_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "297792872",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd722d05a3672b2039a75e_000068d018--6afcd8cae8533a6b98216d11_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "297914426",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10aefbab195e3ddf8c23_000068d3ae--6afdac0bf7bef76b7f28a891_v1",
+      "worker_id": "worker_8ebdc9863b673b0c",
+      "reviews": 0,
+      "OK": 0,
+      "BAD": 0,
+      "other": 0,
+      "status": "SOURCE_MANUAL",
+      "trusted_votes": {},
+      "versions": 2
+    },
+    {
+      "photo_id": "299608721",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211b0dc860f4167dbc5_000068d018--6afcd8cae8533a6b98216d19_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "299792592",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce6c955eb9f701dc095de_000068d018--6afcd8cae8533a6b98216d1d_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "301675040",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d405a3672b2039cebc_000068d018--6afcd8cae8533a6b98216d21_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "302610811",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7334fe68256bfdd38b4d_000068d018--6afcd8cae8533a6b98216d25_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "303085398",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd735eb0dc860f4168234c_000068d018--6afcd8cae8533a6b98216d29_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "303379098",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1062ef0654541c8e1669_000068d3ae--6afe0fbe10ba53010e12fdd0_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "303583978",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce384d5d23603d676898f_000068cedc--6afc74d37e139c70ad6fdaae_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "304093312",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd732dfe68256bfdd388b6_000068d018--6afcd8cae8533a6b98216d31_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "304626426",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce3b205a3672b20270d8f_000068cedc--6afc74d37e139c70ad6fda8e_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "304635308",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10aefbab195e3ddf8c23_000068d3ae--6afe0fbe10ba53010e12fdd4_v1",
+      "worker_id": "worker_8ebdc9863b673b0c",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 2
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "305895776",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd73486fd8607c6c73f240_000068d018--6afcd8cae8533a6b98216d35_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "306208103",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72befe68256bfdd37238_000068d018--6afcd8cbe8533a6b98216d39_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "308395482",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7291409e22184e0cf76e_000068d018--6afcd8cbe8533a6b98216d3d_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "309268451",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7291409e22184e0cf76e_000068d018--6afcd8cbe8533a6b98216d41_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "310070321",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102bfbab195e3ddf7850_000068d3ae--6afdac0bf7bef76b7f28a895_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "310119217",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5d7ebb1521ae8ff6a81_000068d018--6afcd8cbe8533a6b98216d4d_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "MANUAL_OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "310222939",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f7fe68256bfdd349ea_000068d018--6afcd8cbe8533a6b98216d53_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "310422886",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe107cfbab195e3ddf86a7_000068d3ae--6afe0fbe10ba53010e12fdd8_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "BAD": 2,
+        "OK": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "311202692",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a23537ac5dbb517502_000068d018--6afcd8cbe8533a6b98216d5b_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "311592903",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d0409e22184e0d040f_000068d018--6afcd8cbe8533a6b98216d63_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "313596427",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7238409e22184e0ce584_000068d018--6afcd8cbe8533a6b98216d74_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "315410175",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7239b0dc860f4167e1d4_000068d018--6afcd8cbe8533a6b98216d78_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "32057606",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe104cfbab195e3ddf7de9_000068d3ae--6afe0fbe10ba53010e12fddd_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "322088456",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719ced421b4afb0b8ccd_000068d018--6afcd8cbe8533a6b98216d7f_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "325005954",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7312fe68256bfdd383cb_000068d018--6afcd8cbe8533a6b98216d87_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "327734016",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7359409e22184e0d2297_000068d018--6afcd8cbe8533a6b98216d90_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "335694798",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719b409e22184e0cca16_000068d018--6afcd8cbe8533a6b98216d95_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "338402946",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7243fe68256bfdd3577e_000068d018--6afcd8cbe8533a6b98216d99_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "341063330",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd736febb1521ae812e660_000068d018--6afcd8cce8533a6b98216d9d_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "34322279",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72913537ac5dbb51a776_000068d018--6afcd8c4e8533a6b98216aa7_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "344885189",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7243fe68256bfdd3577e_000068d018--6afcd8cce8533a6b98216da5_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "345243036",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729355eb9f701dd367be_000068d018--6afcd8cce8533a6b98216da9_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "346279978",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72da55eb9f701dd378c4_000068d018--6afcd8cce8533a6b98216dad_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "346951080",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71aad5d23603d68803cd_000068d018--6afcd8cce8533a6b98216db2_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "347972671",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd732dfe68256bfdd388b6_000068d018--6afcd8cce8533a6b98216db6_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "349145987",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729355eb9f701dd367be_000068d018--6afcd8cce8533a6b98216dba_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "35330222",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd722d05a3672b2039a75e_000068d018--6afcd8c4e8533a6b98216aac_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "358071925",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce36105a3672b202708d9_000068cedc--6afc74d47e139c70ad6fdab6_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "359081198",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72bf409e22184e0d0066_000068d018--6afcd8cce8533a6b98216dbe_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "359967766",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7249ee5596557a7a1340_000068d018--6afcd8cce8533a6b98216dc2_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "364555303",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7252ed421b4afb0bbd68_000068d018--6afcd8cce8533a6b98216dc6_v1",
+      "worker_id": "worker_3cb0e44c1b827489",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "366181829",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d0409e22184e0d040f_000068d018--6afcd8cce8533a6b98216dce_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "369000933",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d0409e22184e0d040f_000068d018--6afcd8cce8533a6b98216dd6_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "372516031",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5fe55eb9f701dc085ad_000068d018--6afcd8cce8533a6b98216dda_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "375743162",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f48ec2763353b99158_000068d018--6afcd8cce8533a6b98216de0_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "376463769",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce70b409e22184efa437b_000068d018--6afcd8cce8533a6b98216de4_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "378886994",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102c7760fd2ec7089ec7_000068d3ae--6afe0fbe10ba53010e12fde1_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "378991668",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd722d05a3672b2039a75e_000068d018--6afcd8cce8533a6b98216dec_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "379557924",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7249ee5596557a7a1340_000068d018--6afcd8cce8533a6b98216df0_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "379581224",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f7fe68256bfdd349ea_000068d018--6afcd8cce8533a6b98216df4_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "379969136",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce63b1fe8560b8a982ce8_000068d018--6afcd8cce8533a6b98216df8_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "380304220",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211ed421b4afb0baf01_000068d018--6afcd8cce8533a6b98216dfc_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "380895819",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71d96fd8607c6c73a464_000068d018--6afcd8cce8533a6b98216e00_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "381736318",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd730bebb1521ae812d0a3_000068d018--6afcd8cce8533a6b98216e04_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "384422176",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72bf409e22184e0d0066_000068d018--6afcd8cce8533a6b98216e08_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "389311142",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102613c5a15cfd4dbaf3_000068d3ae--6afdac0bf7bef76b7f28a89d_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "389881557",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1073ef0654541c8e192b_000068d3ae--6afdac0bf7bef76b7f28a8a1_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "390881268",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72c86fd8607c6c73d637_000068d018--6afcd8cde8533a6b98216e14_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "391259295",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a6ed421b4afb0b8e3e_000068d018--6afcd8cde8533a6b98216e18_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "39213111",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7359409e22184e0d2297_000068d018--6afcd8c4e8533a6b98216ab5_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "39302230",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f48ec2763353b99158_000068d018--6afcd8c4e8533a6b98216ab9_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "IMAGE_ERROR": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "394260177",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211ed421b4afb0baf01_000068d018--6afcd8cde8533a6b98216e1c_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "394483548",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce618ed421b4afbfa921f_000068d018--6afcd8cde8533a6b98216e20_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "394919600",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce653d5d23603d676bb66_000068d018--6afcd8cde8533a6b98216e24_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "396723229",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd731f6fd8607c6c73e9b2_000068d018--6afcd8cde8533a6b98216e28_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "396988812",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce316fe68256bfdc23dc7_000068cedc--6afc74d47e139c70ad6fdade_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "399295859",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7386ee5596557a7a5fed_000068d018--6afcd8cde8533a6b98216e2c_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "39929608",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102c7760fd2ec7089ec7_000068d3ae--6afe0fbe10ba53010e12fde5_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "BAD": 2,
+        "OK": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "399593751",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7354ee5596557a7a5153_000068d018--6afcd8cde8533a6b98216e30_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "400212934",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729355eb9f701dd367be_000068d018--6afcd8cde8533a6b98216e34_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "401364087",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211b0dc860f4167dbc5_000068d018--6afcd8cde8533a6b98216e38_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "402332501",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7312fe68256bfdd383cb_000068d018--6afcd8cde8533a6b98216e3c_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "402909876",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10aefbab195e3ddf8c23_000068d3ae--6afdac0bf7bef76b7f28a8a5_v1",
+      "worker_id": "worker_8ebdc9863b673b0c",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "40333366",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72cd6fd8607c6c73d7d8_000068d018--6afcd8c4e8533a6b98216ac1_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "405623051",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce36f3537ac5dbb4054f1_000068cedc--6afc74d37e139c70ad6fda9a_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "408860487",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f2fe68256bfdd3499a_000068d018--6afcd8cde8533a6b98216e44_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 1,
+      "other": 1,
+      "status": "PENDING_OR_DISPUTE",
+      "trusted_votes": {
+        "BAD": 1,
+        "UNSURE": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "411190472",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719105a3672b203989ad_000068d018--6afcd8cde8533a6b98216e48_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "411949723",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729e8ec2763353b97d55_000068d018--6afcd8cde8533a6b98216e4c_v1",
+      "worker_id": "worker_3cb0e44c1b827489",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "412401040",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102bfbab195e3ddf7850_000068d3ae--6afe0fbe10ba53010e12fde9_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "413460304",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10e9ef0654541c8e294d_000068d3ae--6afdac0bf7bef76b7f28a8a9_v1",
+      "worker_id": "worker_8ebdc9863b673b0c",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "415351757",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f2fe68256bfdd3499a_000068d018--6afcd8ce22b9cc14719dd270_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "416278761",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102c7760fd2ec7089ec7_000068d3ae--6afe0fbe10ba53010e12fded_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "416352233",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102613c5a15cfd4dbaf3_000068d3ae--6afdac0bf7bef76b7f28a8ad_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "417757656",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7326fe68256bfdd386b7_000068d018--6afcd8ce22b9cc14719dd280_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "419300971",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7359409e22184e0d2297_000068d018--6afcd8ce22b9cc14719dd284_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "420614316",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce63b1fe8560b8a982ce8_000068d018--6afcd8ce22b9cc14719dd289_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "420778106",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd735eb0dc860f4168234c_000068d018--6afcd8ce22b9cc14719dd28d_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "423859574",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f48ec2763353b99158_000068d018--6afcd8ce22b9cc14719dd291_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "425761577",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd73486fd8607c6c73f240_000068d018--6afcd8ce22b9cc14719dd295_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "429322804",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72868ec2763353b9777d_000068d018--6afcd8ce22b9cc14719dd299_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "429747050",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10caa6287e79d3d3ee65_000068d3ae--6afdac0bf7bef76b7f28a8b1_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "430529231",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71cffe68256bfdd34399_000068d018--6afcd8ce22b9cc14719dd2a1_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "431389163",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd736febb1521ae812e660_000068d018--6afcd8ce22b9cc14719dd2a5_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "43463654",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce3a3d5d23603d6768b4d_000068cedc--6afc74d47e139c70ad6fdae2_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "43556024",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a8ed421b4afb0b8e84_000068d018--6afcd8c4e8533a6b98216ac5_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "437505727",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce653d5d23603d676bb66_000068d018--6afcd8ce22b9cc14719dd2a9_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "438074348",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce6ebee5596557a67da25_000068d018--6afcd8ce22b9cc14719dd2ad_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "439075757",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71aad5d23603d68803cd_000068d018--6afcd8ce22b9cc14719dd2b1_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "441095975",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72c86fd8607c6c73d637_000068d018--6afcd8cf22b9cc14719dd2b5_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "442948582",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7375ee5596557a7a5b81_000068d018--6afcd8cf22b9cc14719dd2b9_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "444891875",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72868ec2763353b9777d_000068d018--6afcd8cf22b9cc14719dd2bd_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "445428129",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f7ee5596557a7a3a27_000068d018--6afcd8cf22b9cc14719dd2c1_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "44618469",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd737db0dc860f416829d2_000068d018--6afcd8c4e8533a6b98216ac9_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "446797788",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72913537ac5dbb51a776_000068d018--6afcd8cf22b9cc14719dd2c9_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "447501690",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f7ee5596557a7a3a27_000068d018--6afcd8cf22b9cc14719dd2ce_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "447862635",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719105a3672b203989ad_000068d018--6afcd8cf22b9cc14719dd2d7_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "44821264",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10aefbab195e3ddf8c23_000068d3ae--6afe0fbe10ba53010e12fdf1_v1",
+      "worker_id": "worker_8ebdc9863b673b0c",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "449919286",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd733155eb9f701dd38b1c_000068d018--6afcd8cf22b9cc14719dd2db_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "458687977",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7291409e22184e0cf76e_000068d018--6afcd8cf22b9cc14719dd2df_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "458738630",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce6a1ebb1521ae8ff7a51_000068d018--6afcd8cf22b9cc14719dd2e3_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "47291562",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719b409e22184e0cca16_000068d018--6afcd8c4e8533a6b98216acd_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "475250921",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce68c3537ac5dbb4085f3_000068d018--6afcd8cf22b9cc14719dd2e7_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "475690726",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71d96fd8607c6c73a464_000068d018--6afcd8cf22b9cc14719dd2eb_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "475810497",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72da55eb9f701dd378c4_000068d018--6afcd8cf22b9cc14719dd2ef_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "476896430",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f48ec2763353b99158_000068d018--6afcd8cf22b9cc14719dd2f3_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "478823287",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f7fe68256bfdd349ea_000068d018--6afcd8cf22b9cc14719dd2f7_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "484590076",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211b0dc860f4167dbc5_000068d018--6afcd8cf22b9cc14719dd2fb_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "48632198",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a6ed421b4afb0b8e3e_000068d018--6afcd8c4e8533a6b98216ad1_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "487024948",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce70b409e22184efa437b_000068d018--6afcd8cf22b9cc14719dd303_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "502630923",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a23537ac5dbb517502_000068d018--6afcd8cf22b9cc14719dd30b_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "504284781",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7354ee5596557a7a5153_000068d018--6afcd8cf22b9cc14719dd30f_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "506629048",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7334fe68256bfdd38b4d_000068d018--6afcd8cf22b9cc14719dd317_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 1,
+      "other": 1,
+      "status": "PENDING_OR_DISPUTE",
+      "trusted_votes": {
+        "IMAGE_ERROR": 1,
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "508141231",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72bf409e22184e0d0066_000068d018--6afcd8cf22b9cc14719dd31c_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "508423172",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f2fe68256bfdd3499a_000068d018--6afcd8cf22b9cc14719dd320_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "510677949",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71d96fd8607c6c73a464_000068d018--6afcd8cf22b9cc14719dd324_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "511845508",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72da55eb9f701dd378c4_000068d018--6afcd8d022b9cc14719dd32c_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "513137619",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd730bebb1521ae812d0a3_000068d018--6afcd8d022b9cc14719dd330_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "513412823",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7334fe68256bfdd38b4d_000068d018--6afcd8d022b9cc14719dd334_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "515346648",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce3bb05a3672b20270e0e_000068cedc--6afc74d47e139c70ad6fdada_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 1,
+      "other": 1,
+      "status": "PENDING_OR_DISPUTE",
+      "trusted_votes": {
+        "UNSURE": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "515419745",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a8ed421b4afb0b8e84_000068d018--6afcd8d022b9cc14719dd338_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "517462937",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7386ee5596557a7a5fed_000068d018--6afcd8d022b9cc14719dd340_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "519948206",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2ed421b4afb0ba4f4_000068d018--6afcd8d022b9cc14719dd348_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "52081455",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe104cfbab195e3ddf7de9_000068d3ae--6afe0fbe10ba53010e12fdf5_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 2
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "522567578",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71d96fd8607c6c73a464_000068d018--6afcd8d022b9cc14719dd350_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "524775321",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719b409e22184e0cca16_000068d018--6afcd8d022b9cc14719dd355_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "524905174",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72a36fd8607c6c73cdbc_000068d018--6afcd8d022b9cc14719dd361_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "526410281",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211b0dc860f4167dbc5_000068d018--6afcd8d022b9cc14719dd369_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "528621624",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd724ced421b4afb0bbb12_000068d018--6afcd8d022b9cc14719dd371_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "530285616",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102bfbab195e3ddf7850_000068d3ae--6afe0fbe10ba53010e12fdf9_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "532356862",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd728a409e22184e0cf5d9_000068d018--6afcd8d022b9cc14719dd37d_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "532496284",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7375ee5596557a7a5b81_000068d018--6afcd8d022b9cc14719dd381_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "532795540",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7342ed421b4afb0bf28b_000068d018--6afcd8d022b9cc14719dd389_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "532943249",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5b9409e22184efa27b0_000068d018--6afcd8d022b9cc14719dd391_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "533192285",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d0409e22184e0d040f_000068d018--6afcd8d022b9cc14719dd399_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "534109923",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72cd6fd8607c6c73d7d8_000068d018--6afcd8d022b9cc14719dd3a1_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "535091181",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1073ef0654541c8e192b_000068d3ae--6afdac0bf7bef76b7f28a8ba_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "537524320",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe104cfbab195e3ddf7de9_000068d3ae--6afe0fbe10ba53010e12fdfd_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "538578161",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71d96fd8607c6c73a464_000068d018--6afcd8d022b9cc14719dd3b9_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "539669936",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1073ef0654541c8e192b_000068d3ae--6afdac0bf7bef76b7f28a8be_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "539950505",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd731f6fd8607c6c73e9b2_000068d018--6afcd8d022b9cc14719dd3c9_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "540337869",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd728a409e22184e0cf5d9_000068d018--6afcd8d022b9cc14719dd3d1_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "540375367",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102c7760fd2ec7089ec7_000068d3ae--6afe0fbe10ba53010e12fe01_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 2
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "541247761",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72a36fd8607c6c73cdbc_000068d018--6afcd8d022b9cc14719dd3da_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 1,
+      "other": 1,
+      "status": "PENDING_OR_DISPUTE",
+      "trusted_votes": {
+        "UNSURE": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "541488743",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71eeee5596557a79fff6_000068d018--6afcd8d022b9cc14719dd3de_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "542303876",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72b6409e22184e0cfe8e_000068d018--6afcd8d022b9cc14719dd3e2_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "543241688",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd736febb1521ae812e660_000068d018--6afcd8d022b9cc14719dd3e6_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "544987241",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7354ee5596557a7a5153_000068d018--6afcd8d022b9cc14719dd3ea_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "IMAGE_ERROR": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "545342683",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f2fe68256bfdd3499a_000068d018--6afcd8d022b9cc14719dd3ee_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "545554510",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72befe68256bfdd37238_000068d018--6afcd8d122b9cc14719dd3f2_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "545891717",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f48ec2763353b99158_000068d018--6afcd8d122b9cc14719dd3f6_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "546664697",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71eeee5596557a79fff6_000068d018--6afcd8d122b9cc14719dd3ff_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "54712056",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7249ee5596557a7a1340_000068d018--6afcd8c5e8533a6b98216add_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "550710820",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7386ee5596557a7a5fed_000068d018--6afcd8d122b9cc14719dd403_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "551963314",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1062ef0654541c8e1669_000068d3ae--6afe0fbe10ba53010e12fe05_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "552271571",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7326fe68256bfdd386b7_000068d018--6afcd8d122b9cc14719dd40b_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "553256744",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72693537ac5dbb519f12_000068d018--6afcd8d122b9cc14719dd40f_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "556032360",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a8ed421b4afb0b8e84_000068d018--6afcd8d122b9cc14719dd413_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "556982973",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5b9409e22184efa27b0_000068d018--6afcd8d122b9cc14719dd417_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "558065982",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72913537ac5dbb51a776_000068d018--6afcd8d122b9cc14719dd41b_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "56191420",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd722d05a3672b2039a75e_000068d018--6afcd8c5e8533a6b98216ae1_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "563826158",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce66dfe68256bfdc27731_000068d018--6afcd8d122b9cc14719dd41f_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "567772768",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce618ed421b4afbfa921f_000068d018--6afcd8d122b9cc14719dd423_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "570075021",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd728a409e22184e0cf5d9_000068d018--6afcd8d122b9cc14719dd427_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "575266760",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7312fe68256bfdd383cb_000068d018--6afcd8d122b9cc14719dd42b_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "577387726",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a6ed421b4afb0b8e3e_000068d018--6afcd8d122b9cc14719dd42f_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "578128869",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5b9409e22184efa27b0_000068d018--6afcd8d122b9cc14719dd433_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "578841963",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd724ced421b4afb0bbb12_000068d018--6afcd8d122b9cc14719dd437_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "579535575",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd720b55eb9f701dd34757_000068d018--6afcd8d122b9cc14719dd43b_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "580350738",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a8ed421b4afb0b8e84_000068d018--6afcd8d122b9cc14719dd43f_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "584975273",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce321fe68256bfdc23e83_000068cedc--6afc74d37e139c70ad6fda92_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "598892064",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7312fe68256bfdd383cb_000068d018--6afcd8d122b9cc14719dd443_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "600374591",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce6ebee5596557a67da25_000068d018--6afcd8d122b9cc14719dd44b_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "600402706",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72693537ac5dbb519f12_000068d018--6afcd8d122b9cc14719dd468_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "601625878",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd733155eb9f701dd38b1c_000068d018--6afcd8d122b9cc14719dd46f_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "603998445",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd731f6fd8607c6c73e9b2_000068d018--6afcd8d122b9cc14719dd474_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "604917269",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe107cfbab195e3ddf86a7_000068d3ae--6afe0fbe10ba53010e12fe09_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "612527445",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7272ee5596557a7a1c97_000068d018--6afcd8d222b9cc14719dd480_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "618168062",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd733155eb9f701dd38b1c_000068d018--6afcd8d222b9cc14719dd48c_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "622957307",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd726a6fd8607c6c73bfde_000068d018--6afcd8d222b9cc14719dd494_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "627795942",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1073ef0654541c8e192b_000068d3ae--6afdac0bf7bef76b7f28a8c2_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "629763988",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce368d5d23603d676871d_000068cedc--6afc74d47e139c70ad6fdaea_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "630786520",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7272ee5596557a7a1c97_000068d018--6afcd8d222b9cc14719dd4e8_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "634934284",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7272ee5596557a7a1c97_000068d018--6afcd8d222b9cc14719dd4f0_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "635182215",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd726a6fd8607c6c73bfde_000068d018--6afcd8d222b9cc14719dd4f4_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "636539277",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72da55eb9f701dd378c4_000068d018--6afcd8d222b9cc14719dd4f8_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "638150411",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7238409e22184e0ce584_000068d018--6afcd8d222b9cc14719dd501_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "639373604",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce30fee5596557a6797af_000068cedc--6afc74d47e139c70ad6fdac6_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "642090533",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd724ced421b4afb0bbb12_000068d018--6afcd8d222b9cc14719dd511_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "642109327",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71cffe68256bfdd34399_000068d018--6afcd8d222b9cc14719dd51b_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "643614029",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72ab3537ac5dbb51ac32_000068d018--6afcd8d322b9cc14719dd526_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "648272778",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce32f1fe8560b8a97fd89_000068cedc--6afc74d47e139c70ad6fdabe_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "65285163",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7334fe68256bfdd38b4d_000068d018--6afcd8c5e8533a6b98216ae6_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "652877169",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd737db0dc860f416829d2_000068d018--6afcd8d322b9cc14719dd52f_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "653326294",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729e8ec2763353b97d55_000068d018--6afcd8d322b9cc14719dd537_v1",
+      "worker_id": "worker_3cb0e44c1b827489",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "653345771",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72913537ac5dbb51a776_000068d018--6afcd8d322b9cc14719dd53f_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "653972252",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72f7ee5596557a7a3a27_000068d018--6afcd8d322b9cc14719dd547_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "656525362",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72ab3537ac5dbb51ac32_000068d018--6afcd8d322b9cc14719dd54b_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "656633582",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7375ee5596557a7a5b81_000068d018--6afcd8d322b9cc14719dd54f_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "657982869",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7291409e22184e0cf76e_000068d018--6afcd8d322b9cc14719dd553_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "658070404",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd733155eb9f701dd38b1c_000068d018--6afcd8d322b9cc14719dd557_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "659632202",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe104cfbab195e3ddf7de9_000068d3ae--6afe0fbe10ba53010e12fe0d_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "BAD": 2,
+        "OK": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "660088348",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce63b1fe8560b8a982ce8_000068d018--6afcd8d322b9cc14719dd560_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "664420875",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72693537ac5dbb519f12_000068d018--6afcd8d322b9cc14719dd564_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "664635905",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71eeee5596557a79fff6_000068d018--6afcd8d322b9cc14719dd568_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "666151783",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd733155eb9f701dd38b1c_000068d018--6afcd8d322b9cc14719dd56c_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "670993200",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1073ef0654541c8e192b_000068d3ae--6afe0fbe10ba53010e12fe11_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "671327503",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce6c955eb9f701dc095de_000068d018--6afcd8d322b9cc14719dd570_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "673317511",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7239b0dc860f4167e1d4_000068d018--6afcd8d322b9cc14719dd574_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "673494504",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7326fe68256bfdd386b7_000068d018--6afcd8d322b9cc14719dd578_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "673928881",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7386ee5596557a7a5fed_000068d018--6afcd8d322b9cc14719dd57c_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "674147672",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7354ee5596557a7a5153_000068d018--6afcd8d322b9cc14719dd580_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "676854909",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce653d5d23603d676bb66_000068d018--6afcd8d422b9cc14719dd584_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "MANUAL_OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "677169643",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7239b0dc860f4167e1d4_000068d018--6afcd8d422b9cc14719dd588_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "677472348",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72befe68256bfdd37238_000068d018--6afcd8d422b9cc14719dd58c_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "678343034",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729e8ec2763353b97d55_000068d018--6afcd8d422b9cc14719dd590_v1",
+      "worker_id": "worker_3cb0e44c1b827489",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "680218473",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce3bf55eb9f701dc05fd4_000068cedc--6afc74d47e139c70ad6fdad6_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "680265292",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce66dfe68256bfdc27731_000068d018--6afcd8d422b9cc14719dd594_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "MANUAL_OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "682675874",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72e1ebb1521ae812c319_000068d018--6afcd8d422b9cc14719dd598_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "683752411",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2d5d23603d6880d88_000068d018--6afcd8d422b9cc14719dd59c_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "BAD": 1,
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "685313281",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10caa6287e79d3d3ee65_000068d3ae--6afdac0bf7bef76b7f28a8ce_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "685885453",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72ab3537ac5dbb51ac32_000068d018--6afcd8d422b9cc14719dd5ac_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "686208345",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7312fe68256bfdd383cb_000068d018--6afcd8d422b9cc14719dd5b0_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "687005304",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d405a3672b2039cebc_000068d018--6afcd8d422b9cc14719dd5b4_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "687659686",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd73486fd8607c6c73f240_000068d018--6afcd8d422b9cc14719dd5b8_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "690760752",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce396fe68256bfdc24660_000068cedc--6afc74d47e139c70ad6fdad2_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "690800620",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce3461fe8560b8a97fe07_000068cedc--6afc74d37e139c70ad6fdaa6_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "690869831",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72e1ebb1521ae812c319_000068d018--6afcd8d422b9cc14719dd5be_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "696175551",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2d5d23603d6880d88_000068d018--6afcd8d422b9cc14719dd5c2_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "696189183",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71f7fe68256bfdd349ea_000068d018--6afcd8d422b9cc14719dd5c6_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "696384636",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d405a3672b2039cebc_000068d018--6afcd8d422b9cc14719dd5ca_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "696670378",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd726a6fd8607c6c73bfde_000068d018--6afcd8d422b9cc14719dd5ce_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "698469218",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd720b55eb9f701dd34757_000068d018--6afcd8d422b9cc14719dd5d2_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "701638590",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102613c5a15cfd4dbaf3_000068d3ae--6afdac0bf7bef76b7f28a8d2_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "702688204",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102c7760fd2ec7089ec7_000068d3ae--6afe0fbe10ba53010e12fe16_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "703797833",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce618ed421b4afbfa921f_000068d018--6afcd8d422b9cc14719dd5de_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "704063226",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce33c1fe8560b8a97fdd3_000068cedc--6afc74d47e139c70ad6fdaee_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "704734713",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7334fe68256bfdd38b4d_000068d018--6afcd8d422b9cc14719dd5e2_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "705559412",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce3ceed421b4afbfa6e0e_000068cedc--6afc74d37e139c70ad6fdab2_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "706217267",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d405a3672b2039cebc_000068d018--6afcd8d522b9cc14719dd5ea_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "707125812",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719105a3672b203989ad_000068d018--6afcd8d522b9cc14719dd5ef_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "70717658",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72ab3537ac5dbb51ac32_000068d018--6afcd8c5e8533a6b98216aea_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "708135024",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7252ed421b4afb0bbd68_000068d018--6afcd8d522b9cc14719dd5f3_v1",
+      "worker_id": "worker_3cb0e44c1b827489",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "708389956",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71cffe68256bfdd34399_000068d018--6afcd8d522b9cc14719dd5f7_v1",
+      "worker_id": "worker_11c35076533b206e",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "709167584",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72d405a3672b2039cebc_000068d018--6afcd8d522b9cc14719dd5fb_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "712302175",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719b409e22184e0cca16_000068d018--6afcd8d522b9cc14719dd5ff_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "716839176",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72c86fd8607c6c73d637_000068d018--6afcd8d522b9cc14719dd603_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "718024860",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2d5d23603d6880d88_000068d018--6afcd8d522b9cc14719dd607_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "719178965",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce6ebee5596557a67da25_000068d018--6afcd8d522b9cc14719dd60b_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "722122694",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719ced421b4afb0b8ccd_000068d018--6afcd8d522b9cc14719dd60f_v1",
+      "worker_id": "worker_1bee6f9431defcff",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "72247764",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71a6ed421b4afb0b8e3e_000068d018--6afcd8c5e8533a6b98216aee_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "723583181",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd720b55eb9f701dd34757_000068d018--6afcd8d522b9cc14719dd613_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "724120698",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2ed421b4afb0ba4f4_000068d018--6afcd8d522b9cc14719dd617_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "IMAGE_ERROR": 1,
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "724367553",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72a36fd8607c6c73cdbc_000068d018--6afcd8d522b9cc14719dd61b_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "728664471",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2ed421b4afb0ba4f4_000068d018--6afcd8d522b9cc14719dd61f_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "731762156",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd719105a3672b203989ad_000068d018--6afcd8d522b9cc14719dd623_v1",
+      "worker_id": "worker_605c454a0af50765",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "734564421",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd728a409e22184e0cf5d9_000068d018--6afcd8d622b9cc14719dd627_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "737224801",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd730bebb1521ae812d0a3_000068d018--6afcd8d622b9cc14719dd62b_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "738036749",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe107cfbab195e3ddf86a7_000068d3ae--6afe0fbe10ba53010e12fe1d_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 0,
+      "BAD": 3,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "BAD": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "738918225",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7243fe68256bfdd3577e_000068d018--6afcd8d622b9cc14719dd633_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "739280063",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce3abed421b4afbfa6ca2_000068cedc--6afc74d47e139c70ad6fdace_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "743021805",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd737db0dc860f416829d2_000068d018--6afcd8d622b9cc14719dd637_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "743433072",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe102bfbab195e3ddf7850_000068d3ae--6afe0fbf10ba53010e12fe21_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "BAD": 2,
+        "OK": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "743452862",
+      "version": "bbox_pilot",
+      "annotation_id": "bbox_000068cedc--6afce332409e22184ef9f889_000068cedc--6afc74d47e139c70ad6fdae6_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "745859461",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe1062ef0654541c8e1669_000068d3ae--6afdac0bf7bef76b7f28a8d6_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "REWORK",
+      "trusted_votes": {
+        "BAD": 2,
+        "OK": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "748520041",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211ed421b4afb0baf01_000068d018--6afcd8d622b9cc14719dd643_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "75129906",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5d7ebb1521ae8ff6a81_000068d018--6afcd8c5e8533a6b98216af2_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 1,
+      "BAD": 2,
+      "other": 0,
+      "status": "MANUAL_OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "752430385",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd732dfe68256bfdd388b6_000068d018--6afcd8d622b9cc14719dd647_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 0,
+      "other": 1,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "UNSURE": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "753309480",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72e1ebb1521ae812c319_000068d018--6afcd8d622b9cc14719dd64b_v1",
+      "worker_id": "worker_2d184a5f8bd840a4",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "753402113",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7342ed421b4afb0bf28b_000068d018--6afcd8d622b9cc14719dd64f_v1",
+      "worker_id": "worker_6d701d7fe3afedc9",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "75410201",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe107cfbab195e3ddf86a7_000068d3ae--6afe0fbf10ba53010e12fe25_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "754728412",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd735eb0dc860f4168234c_000068d018--6afcd8d622b9cc14719dd653_v1",
+      "worker_id": "worker_592ff9a0d894ad33",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "79139056",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce5fe55eb9f701dc085ad_000068d018--6afcd8c5e8533a6b98216afa_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "79620635",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afce653d5d23603d676bb66_000068d018--6afcd8c5e8533a6b98216afe_v1",
+      "worker_id": "worker_98674858f5ed0043",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "79910212",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7375ee5596557a7a5b81_000068d018--6afcd8c5e8533a6b98216b07_v1",
+      "worker_id": "worker_05d679a92ca26027",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "83780347",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71e2d5d23603d6880d88_000068d018--6afcd8c5e8533a6b98216b0b_v1",
+      "worker_id": "worker_fef4af507eec2dc0",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "83801569",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7252ed421b4afb0bbd68_000068d018--6afcd8c5e8533a6b98216b0f_v1",
+      "worker_id": "worker_3cb0e44c1b827489",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 3
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "85098941",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72868ec2763353b9777d_000068d018--6afcd8c5e8533a6b98216b13_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "86231804",
+      "version": "bbox_rework_reviewed",
+      "annotation_id": "bbox_000068d3ae--6afe10caa6287e79d3d3ee65_000068d3ae--6afdac0bf7bef76b7f28a8df_v1",
+      "worker_id": "worker_9ff128d8fe918d79",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 2
+    },
+    {
+      "photo_id": "86459232",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd72868ec2763353b9777d_000068d018--6afcd8c5e8533a6b98216b1f_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "87660028",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7211ed421b4afb0baf01_000068d018--6afcd8c5e8533a6b98216b24_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 3,
+      "BAD": 0,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "90193240",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd7238409e22184e0ce584_000068d018--6afcd8c5e8533a6b98216b28_v1",
+      "worker_id": "worker_7d1e97980febba92",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "96449193",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd729e8ec2763353b97d55_000068d018--6afcd8c5e8533a6b98216b2c_v1",
+      "worker_id": "worker_3cb0e44c1b827489",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 2,
+        "BAD": 1
+      },
+      "versions": 1
+    },
+    {
+      "photo_id": "99014107",
+      "version": "bbox_main_375",
+      "annotation_id": "bbox_000068d018--6afd71eeee5596557a79fff6_000068d018--6afcd8c5e8533a6b98216b30_v1",
+      "worker_id": "worker_f986c90e583e0b30",
+      "reviews": 3,
+      "OK": 2,
+      "BAD": 1,
+      "other": 0,
+      "status": "OK",
+      "trusted_votes": {
+        "OK": 1,
+        "BAD": 1
+      },
+      "versions": 1
+    }
+  ],
+  "source_errors": [
+    {
+      "pool": "bbox_rework_reviewed",
+      "assignment_id": "000068d3ae--6afe10aefbab195e3ddf8c23",
+      "task_id": "000068d3ae--6afdac0bf7bef76b7f28a891",
+      "error": "Invalid normalized rectangle"
+    }
+  ],
+  "directory": "platform/private/setup/team23_butterflies_v2_a18e3f656165/current_dataset_quality/20261118T214834220486Z",
+  "basis": "Latest submitted version; BAD > OK; manual GOOD overrides; all structurally valid independent votes."
+}

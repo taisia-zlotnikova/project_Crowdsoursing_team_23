@@ -1,0 +1,17 @@
+{
+  "images": 400,
+  "boxes": 358,
+  "statuses": {
+    "HAS_BUTTERFLY": 354,
+    "NO_BUTTERFLY": 46
+  },
+  "decision_sources": {
+    "review_majority": 378,
+    "requester_approved": 18,
+    "requester_redrawn": 3,
+    "requester_corrected_status": 1
+  },
+  "review_snapshot_utc": "2026-11-18T21:48:34.616418+00:00",
+  "coordinate_convention": "xywh; normalized relative to width/height; pixels in COCO",
+  "image_files_included": false
+}

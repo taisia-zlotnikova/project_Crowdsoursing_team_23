@@ -1,0 +1,4 @@
+# Workflow, archive and export use Python standard library only (Python >=3.9).
+# Needed only to open the notebooks:
+jupyterlab>=4,<5
+ipykernel>=6,<8

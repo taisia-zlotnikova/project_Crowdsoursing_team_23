@@ -1,0 +1,55 @@
+{
+  "pool": {
+    "id": "6868710",
+    "project_id": "11882",
+    "private_name": "team23_butterflies_v2_a18e3f656165:bbox_rework_01",
+    "private_comment": "Подготовлен установщиком. Этап: bbox_rework_01",
+    "may_contain_adult_content": false,
+    "may_contain_nda": false,
+    "will_expire": "2026-11-30T20:59:00",
+    "auto_close_after_complete_delay_seconds": 0,
+    "reward_per_assignment": 0.3,
+    "assignment_max_duration_seconds": 1200,
+    "auto_accept_solutions": false,
+    "auto_accept_period_day": 1,
+    "assignments_issuing_config": {
+      "issue_task_suites_in_creation_order": false
+    },
+    "filter": {
+      "and": [
+        {
+          "category": "skill",
+          "key": "21594",
+          "operator": "EQ",
+          "value": 100
+        }
+      ]
+    },
+    "quality_control": {
+      "configs": []
+    },
+    "mixer_config": {
+      "real_tasks_count": 1,
+      "golden_tasks_count": 0,
+      "training_tasks_count": 0,
+      "min_real_tasks_count": 1,
+      "min_golden_tasks_count": 0,
+      "min_training_tasks_count": 0,
+      "force_last_assignment": true,
+      "force_last_assignment_delay_seconds": 60,
+      "mix_tasks_in_creation_order": false,
+      "shuffle_tasks_in_task_suite": true
+    },
+    "defaults": {
+      "default_overlap_for_new_task_suites": 1,
+      "default_overlap_for_new_tasks": 1
+    },
+    "priority": 0,
+    "type": "REGULAR",
+    "status": "ARCHIVED",
+    "created": "2026-11-17T15:37:44.024"
+  },
+  "tasks": [],
+  "assignments": [],
+  "evidence_observed_at": "2026-11-19T12:41:03.544147+00:00"
+}

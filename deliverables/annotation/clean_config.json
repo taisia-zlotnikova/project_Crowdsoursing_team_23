@@ -1,0 +1,63 @@
+{
+  "namespace": "team23_butterflies_clean_v1",
+  "expires_at": "2026-12-31T20:59:00",
+  "commission_rate": 0.4,
+  "bbox_pass": 90,
+  "review_exam_pass": 80,
+  "review_control_pass": 75,
+  "training_pass": 80,
+  "instructions": {
+    "bbox": "../butterfly-box.html",
+    "review": "../butterfly-review.html"
+  },
+  "stages": {
+    "bbox_exam": {
+      "price": 1,
+      "page_size": 10,
+      "overlap": 20,
+      "deferred_days": 1
+    },
+    "review_exam": {
+      "price": 1,
+      "page_size": 10,
+      "overlap": 20,
+      "deferred_days": 0
+    },
+    "bbox_pilot": {
+      "price": 0.1,
+      "page_size": 1,
+      "overlap": 1,
+      "deferred_days": 1
+    },
+    "bbox_main": {
+      "price": 0.5,
+      "page_size": 5,
+      "overlap": 1,
+      "deferred_days": 1
+    },
+    "review_bbox_exam": {
+      "price": 0.15,
+      "page_size": 4,
+      "overlap": 3,
+      "deferred_days": 0
+    },
+    "review_pilot": {
+      "price": 0.15,
+      "page_size": 4,
+      "overlap": 3,
+      "deferred_days": 0
+    },
+    "review_main": {
+      "price": 0.15,
+      "page_size": 4,
+      "overlap": 3,
+      "deferred_days": 0
+    },
+    "bbox_rework": {
+      "price": 0.5,
+      "page_size": 5,
+      "overlap": 1,
+      "deferred_days": 1
+    }
+  }
+}

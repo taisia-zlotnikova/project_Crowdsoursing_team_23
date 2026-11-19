@@ -1,0 +1,54 @@
+[
+  {
+    "task_id": "0",
+    "output_values": {
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.4578834227044819,
+          "top": 0.40180892233570437,
+          "width": 0.09328280115897036,
+          "height": 0.2256142167565794
+        }
+      ],
+      "status": "HAS_BUTTERFLY"
+    }
+  },
+  {
+    "task_id": "1",
+    "output_values": {
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.48781494140625,
+          "top": 0.26416664123535155,
+          "width": 0.30447509765624997,
+          "height": 0.55
+        },
+        {
+          "shape": "rectangle",
+          "left": 0.37322753906249995,
+          "top": 0.01666664123535156,
+          "width": 0.09821777343749999,
+          "height": 0.3575
+        }
+      ],
+      "status": "HAS_BUTTERFLY"
+    }
+  },
+  {
+    "task_id": "2",
+    "output_values": {
+      "result": [
+        {
+          "shape": "rectangle",
+          "left": 0.1866863103363778,
+          "top": 0.35190323036670335,
+          "width": 0.3678207235487375,
+          "height": 0.22225604449250635
+        }
+      ],
+      "status": "HAS_BUTTERFLY"
+    }
+  }
+]

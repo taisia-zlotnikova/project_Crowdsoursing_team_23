@@ -1,0 +1,1406 @@
+[
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T134534984114Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-18T13:45:34.984114+00:00",
+    "assignments": 86
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T134534984114Z/review_main_01_raw.json",
+    "captured_at": "2026-11-18T13:45:34.984114+00:00",
+    "assignments": 154
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T092258536343Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-18T09:22:58.536343+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T092258536343Z/review_main_01_raw.json",
+    "captured_at": "2026-11-18T09:22:58.536343+00:00",
+    "assignments": 46
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T205053559468Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-18T20:50:53.559468+00:00",
+    "assignments": 86
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T205053559468Z/review_main_01_raw.json",
+    "captured_at": "2026-11-18T20:50:53.559468+00:00",
+    "assignments": 287
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T203305049425Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-18T20:33:05.049425+00:00",
+    "assignments": 86
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T203305049425Z/review_main_01_raw.json",
+    "captured_at": "2026-11-18T20:33:05.049425+00:00",
+    "assignments": 287
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T214821483696Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-18T21:48:21.483696+00:00",
+    "assignments": 86
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T214821483696Z/review_main_01_raw.json",
+    "captured_at": "2026-11-18T21:48:21.483696+00:00",
+    "assignments": 325
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T134633395063Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-18T13:46:33.395063+00:00",
+    "assignments": 86
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_analysis/20261118T134633395063Z/review_main_01_raw.json",
+    "captured_at": "2026-11-18T13:46:33.395063+00:00",
+    "assignments": 156
+  },
+  {
+    "pool_id": "6869934",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/reviewed_rework/review/source_snapshot.json",
+    "captured_at": "2026-11-18T21:12:30.842054+00:00",
+    "assignments": 10
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/review_full11/source_snapshot.json",
+    "captured_at": "2026-11-17T20:48:16.465244+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/completion/original_snapshot.json",
+    "captured_at": "2026-11-17T19:14:11.488693+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_main_04_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 18
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_training_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_pilot_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 21
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868837",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_exam_completion_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_main_03_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_main_02_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_training_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_exam_full11_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_exam_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 155
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/review_main_01_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T055245725342Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-18T05:52:45.725342+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_main_04_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_training_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_pilot_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 21
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868837",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_exam_completion_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_main_03_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_main_02_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_training_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_exam_full11_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_exam_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 155
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/review_main_01_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261118T083852461841Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-18T08:38:52.461841+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/review_training_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/review_pilot_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868837",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_exam_completion_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/review_main_03_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/review_main_02_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_training_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_exam_full11_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/review_exam_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 135
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/review_main_01_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225648664074Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-17T22:56:48.664074+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_main_04_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_training_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_pilot_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868837",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_exam_completion_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_main_03_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_main_02_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_training_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_exam_full11_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_exam_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 135
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/review_main_01_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T225759304739Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-17T22:57:59.304739+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_main_04_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_main_375_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_training_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_pilot_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868837",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_exam_completion_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_main_03_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_main_02_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_training_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_exam_full11_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_exam_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 135
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/review_main_01_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T230423260098Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-17T23:04:23.260098+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_main_04_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_training_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_pilot_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868837",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_exam_completion_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_main_03_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_main_02_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_training_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_exam_full11_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_exam_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 108
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/review_main_01_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T212530451156Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-17T21:25:30.451156+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_main_04_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_training_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_pilot_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868837",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_exam_completion_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_main_03_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_main_02_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_training_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_exam_full11_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_exam_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 117
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/review_main_01_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223242928400Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-17T22:32:42.928400+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_main_04_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_training_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_pilot_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_main_03_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_main_02_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/bbox_training_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 88
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_exam_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/review_main_01_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T184206414763Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-17T18:42:06.414763+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_rework_01_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_main_04_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_main_03_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_main_02_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868695",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_training_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_pilot_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_rework_01_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868837",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_exam_completion_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_main_04_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_main_03_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_main_02_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_training_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868848",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_exam_full11_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868696",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_exam_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_main_01_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_bbox_exam_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 121
+  },
+  {
+    "pool_id": "6868703",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/review_main_01_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868698",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/results/20261117T223523961857Z/bbox_exam_raw.json",
+    "captured_at": "2026-11-17T22:35:23.961857+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_review/source_snapshot.json",
+    "captured_at": "2026-11-17T23:37:48.502677+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6869597",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/recruit_exam/source_snapshot.json",
+    "captured_at": "2026-11-18T09:27:18.430883+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6869597",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/recruit_exam/review/source_snapshot.json",
+    "captured_at": "2026-11-18T09:27:36.347540+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868704",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868704.json",
+    "captured_at": "2026-11-17T22:44:45.582296+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868708",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868708.json",
+    "captured_at": "2026-11-17T22:44:51.918773+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868709",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868709.json",
+    "captured_at": "2026-11-17T22:44:53.050700+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868705.json",
+    "captured_at": "2026-11-17T22:44:46.911831+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868702",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868702.json",
+    "captured_at": "2026-11-17T22:44:44.061626+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868710",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868710.json",
+    "captured_at": "2026-11-17T22:44:53.940951+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868706.json",
+    "captured_at": "2026-11-17T22:44:48.453728+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868707",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868707.json",
+    "captured_at": "2026-11-17T22:44:49.973113+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/consolidation/archive_snapshots/6868711.json",
+    "captured_at": "2026-11-17T22:44:55.104222+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T203315209280Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-18T20:33:15.209280+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T203315209280Z/review_pilot_raw.json",
+    "captured_at": "2026-11-18T20:33:15.209280+00:00",
+    "assignments": 21
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T134640440414Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-18T13:46:40.440414+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T134640440414Z/review_pilot_raw.json",
+    "captured_at": "2026-11-18T13:46:40.440414+00:00",
+    "assignments": 21
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T214832412635Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-18T21:48:32.412635+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T214832412635Z/review_pilot_raw.json",
+    "captured_at": "2026-11-18T21:48:32.412635+00:00",
+    "assignments": 21
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T134541866961Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-18T13:45:41.866961+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T134541866961Z/review_pilot_raw.json",
+    "captured_at": "2026-11-18T13:45:41.866961+00:00",
+    "assignments": 21
+  },
+  {
+    "pool_id": "6868700",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T205104134135Z/bbox_pilot_raw.json",
+    "captured_at": "2026-11-18T20:51:04.134135+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6868701",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/pilot_rework_analysis/20261118T205104134135Z/review_pilot_raw.json",
+    "captured_at": "2026-11-18T20:51:04.134135+00:00",
+    "assignments": 21
+  },
+  {
+    "pool_id": "6869016",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/main_review/source_snapshot.json",
+    "captured_at": "2026-11-18T10:04:17.168007+00:00",
+    "assignments": 86
+  },
+  {
+    "pool_id": "6869934",
+    "file": "platform/private/setup/team23_butterflies_v2_a18e3f656165/current_dataset_quality/20261118T214834220486Z/rework_raw.json",
+    "captured_at": "2026-11-18T21:48:34.220486+00:00",
+    "assignments": 10
+  },
+  {
+    "pool_id": "6868698",
+    "file": "deliverables/annotation/raw/pool_6868698.json",
+    "captured_at": "2026-11-19T12:41:03.429838+00:00",
+    "assignments": 201
+  },
+  {
+    "pool_id": "6868837",
+    "file": "deliverables/annotation/raw/pool_6868837.json",
+    "captured_at": "2026-11-19T12:41:03.545691+00:00",
+    "assignments": 1
+  },
+  {
+    "pool_id": "6868708",
+    "file": "deliverables/annotation/raw/pool_6868708.json",
+    "captured_at": "2026-11-19T12:41:03.542928+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868694",
+    "file": "deliverables/annotation/raw/pool_6868694.json",
+    "captured_at": "2026-11-19T12:41:03.397532+00:00",
+    "assignments": 139
+  },
+  {
+    "pool_id": "6868704",
+    "file": "deliverables/annotation/raw/pool_6868704.json",
+    "captured_at": "2026-11-19T12:41:03.539011+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868705",
+    "file": "deliverables/annotation/raw/pool_6868705.json",
+    "captured_at": "2026-11-19T12:41:03.539808+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868695",
+    "file": "deliverables/annotation/raw/pool_6868695.json",
+    "captured_at": "2026-11-19T12:41:03.416542+00:00",
+    "assignments": 101
+  },
+  {
+    "pool_id": "6868709",
+    "file": "deliverables/annotation/raw/pool_6868709.json",
+    "captured_at": "2026-11-19T12:41:03.543914+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868699",
+    "file": "deliverables/annotation/raw/pool_6868699.json",
+    "captured_at": "2026-11-19T12:41:03.469614+00:00",
+    "assignments": 155
+  },
+  {
+    "pool_id": "6868702",
+    "file": "deliverables/annotation/raw/pool_6868702.json",
+    "captured_at": "2026-11-19T12:41:03.476747+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6869934",
+    "file": "deliverables/annotation/raw/pool_6869934.json",
+    "captured_at": "2026-11-19T12:41:03.578621+00:00",
+    "assignments": 10
+  },
+  {
+    "pool_id": "6869016",
+    "file": "deliverables/annotation/raw/pool_6869016.json",
+    "captured_at": "2026-11-19T12:41:03.564506+00:00",
+    "assignments": 86
+  },
+  {
+    "pool_id": "6868703",
+    "file": "deliverables/annotation/raw/pool_6868703.json",
+    "captured_at": "2026-11-19T12:41:03.536721+00:00",
+    "assignments": 325
+  },
+  {
+    "pool_id": "6869597",
+    "file": "deliverables/annotation/raw/pool_6869597.json",
+    "captured_at": "2026-11-19T12:41:03.576030+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868700",
+    "file": "deliverables/annotation/raw/pool_6868700.json",
+    "captured_at": "2026-11-19T12:41:03.471756+00:00",
+    "assignments": 26
+  },
+  {
+    "pool_id": "6868848",
+    "file": "deliverables/annotation/raw/pool_6868848.json",
+    "captured_at": "2026-11-19T12:41:03.551739+00:00",
+    "assignments": 11
+  },
+  {
+    "pool_id": "6868701",
+    "file": "deliverables/annotation/raw/pool_6868701.json",
+    "captured_at": "2026-11-19T12:41:03.475441+00:00",
+    "assignments": 21
+  },
+  {
+    "pool_id": "6868710",
+    "file": "deliverables/annotation/raw/pool_6868710.json",
+    "captured_at": "2026-11-19T12:41:03.544147+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868706",
+    "file": "deliverables/annotation/raw/pool_6868706.json",
+    "captured_at": "2026-11-19T12:41:03.541151+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868696",
+    "file": "deliverables/annotation/raw/pool_6868696.json",
+    "captured_at": "2026-11-19T12:41:03.423347+00:00",
+    "assignments": 20
+  },
+  {
+    "pool_id": "6868707",
+    "file": "deliverables/annotation/raw/pool_6868707.json",
+    "captured_at": "2026-11-19T12:41:03.541964+00:00",
+    "assignments": 0
+  },
+  {
+    "pool_id": "6868711",
+    "file": "deliverables/annotation/raw/pool_6868711.json",
+    "captured_at": "2026-11-19T12:41:03.544994+00:00",
+    "assignments": 0
+  }
+]

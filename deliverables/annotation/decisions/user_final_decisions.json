@@ -1,0 +1,141 @@
+[
+  {
+    "annotation_id": "bbox_000068d018--6afd71a6ed421b4afb0b8e3e_000068d018--6afcd8c6e8533a6b98216b58_v1",
+    "photo_id": "129655071",
+    "worker_id": "worker_592ff9a0d894ad33",
+    "output_sha256": "902acdbee629276b1661f9278dad3bb837a52f3d122f2c50da785d2a686ea612",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe104cfbab195e3ddf7de9_000068d3ae--6afe0fbe10ba53010e12fdb3_v1",
+    "photo_id": "180452596",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "1a68d5cc5e6a2cff925a58d2b29b8da1716927ec81f9b3f52bc13ed38ee2fb6c",
+    "verdict": "BAD",
+    "reason": "Пользователь подтвердил неверную разметку в remaining_15.html.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe1062ef0654541c8e1669_000068d3ae--6afe0fbe10ba53010e12fdb7_v1",
+    "photo_id": "238619473",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "91c098526edb5a67e7bdcd10c655ca6a712eabbe0d33cd49f1bf2391ef5312be",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe10aefbab195e3ddf8c23_000068d3ae--6afdac0bf7bef76b7f28a891_v1",
+    "photo_id": "297914426",
+    "worker_id": "worker_8ebdc9863b673b0c",
+    "output_sha256": "0476c229c3000a32d6f3ec0e5c7944513a36f320b6a71fc1904226f21ccef543",
+    "verdict": "BAD",
+    "reason": "Пользователь подтвердил неверную разметку в remaining_15.html.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe107cfbab195e3ddf86a7_000068d3ae--6afe0fbe10ba53010e12fdd8_v1",
+    "photo_id": "310422886",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "d7a7ade3c5b1e340d6bc65b5319cffbb875f2e775eba4c85dfc08a8adb4deaa6",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe102c7760fd2ec7089ec7_000068d3ae--6afe0fbe10ba53010e12fde5_v1",
+    "photo_id": "39929608",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "00f0dc2ab646f55bbb24f7861e88c3a1310fd805810da2ab4dbab4b44a29c926",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d018--6afd71f2fe68256bfdd3499a_000068d018--6afcd8cde8533a6b98216e44_v1",
+    "photo_id": "408860487",
+    "worker_id": "worker_1bee6f9431defcff",
+    "output_sha256": "090fa86eab2929397d97522d7cbebe7d43f093dd044427f7a475baaf355c1dab",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d018--6afd7334fe68256bfdd38b4d_000068d018--6afcd8cf22b9cc14719dd317_v1",
+    "photo_id": "506629048",
+    "worker_id": "worker_05d679a92ca26027",
+    "output_sha256": "c878823fd403791f9d04b6334984ec4eba607a18ea519f74a54ee465d6b1ae1b",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068cedc--6afce3bb05a3672b20270e0e_000068cedc--6afc74d47e139c70ad6fdada_v1",
+    "photo_id": "515346648",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "e055f72188b4ea1b4f5614b395999473797b7deb956d49fe9bddedb2bfacd74d",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe104cfbab195e3ddf7de9_000068d3ae--6afe0fbe10ba53010e12fdf5_v1",
+    "photo_id": "52081455",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "b96815091eafdbf07c3844c2d164640a4e60787c1d89113d41724eaed65f3595",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d018--6afd72a36fd8607c6c73cdbc_000068d018--6afcd8d022b9cc14719dd3da_v1",
+    "photo_id": "541247761",
+    "worker_id": "worker_7d1e97980febba92",
+    "output_sha256": "5d1fc237b9d8e68b590b21fcd6ac74ba1469dd0a07e030e043ad6058ad3fca3c",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe104cfbab195e3ddf7de9_000068d3ae--6afe0fbe10ba53010e12fe0d_v1",
+    "photo_id": "659632202",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "e055f72188b4ea1b4f5614b395999473797b7deb956d49fe9bddedb2bfacd74d",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe107cfbab195e3ddf86a7_000068d3ae--6afe0fbe10ba53010e12fe1d_v1",
+    "photo_id": "738036749",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "bf4e3c67d19aa3772c4eac958fce0663eb8591b8b0df162562dd015ee50ba0b1",
+    "verdict": "GOOD",
+    "reason": "Пользователь просмотрел remaining_15.html: всё остальное OK.",
+    "basis": "explicit_user_visual_adjudication"
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe102bfbab195e3ddf7850_000068d3ae--6afe0fbf10ba53010e12fe21_v1",
+    "photo_id": "743433072",
+    "worker_id": "worker_592ff9a0d894ad33",
+    "output_sha256": "eb8bdd3df87fcb1465dc67df0982b3f34d208bc68f4cc5c9b9694d2627078d7e",
+    "verdict": "BAD",
+    "reason": "Пользователь подтвердил: на фото нет бабочки.",
+    "basis": "explicit_user_visual_adjudication",
+    "corrected_output_values": {
+      "status": "NO_BUTTERFLY",
+      "result": []
+    }
+  },
+  {
+    "annotation_id": "bbox_000068d3ae--6afe1062ef0654541c8e1669_000068d3ae--6afdac0bf7bef76b7f28a8d6_v1",
+    "photo_id": "745859461",
+    "worker_id": "worker_98674858f5ed0043",
+    "output_sha256": "8e47ca134449007fbb644fd5fc332893c8ac593cc7a0f8b03c1c6465b3e79b92",
+    "verdict": "BAD",
+    "reason": "Пользователь подтвердил неверную разметку в remaining_15.html.",
+    "basis": "explicit_user_visual_adjudication"
+  }
+]

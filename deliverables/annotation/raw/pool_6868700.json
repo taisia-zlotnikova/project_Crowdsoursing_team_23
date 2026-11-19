@@ -1,0 +1,1614 @@
+{
+  "pool": {
+    "id": "6868700",
+    "project_id": "11882",
+    "private_name": "team23_butterflies_v2_a18e3f656165:bbox_pilot",
+    "private_comment": "Подготовлен установщиком. Этап: bbox_pilot",
+    "may_contain_adult_content": false,
+    "may_contain_nda": false,
+    "will_expire": "2026-11-30T20:59:00",
+    "auto_close_after_complete_delay_seconds": 0,
+    "reward_per_assignment": 0.1,
+    "assignment_max_duration_seconds": 1200,
+    "auto_accept_solutions": false,
+    "auto_accept_period_day": 1,
+    "assignments_issuing_config": {
+      "issue_task_suites_in_creation_order": false
+    },
+    "filter": {
+      "and": [
+        {
+          "category": "skill",
+          "key": "21593",
+          "operator": "GTE",
+          "value": 90
+        },
+        {
+          "category": "skill",
+          "key": "21594",
+          "operator": "EQ",
+          "value": 100
+        }
+      ]
+    },
+    "quality_control": {
+      "configs": []
+    },
+    "mixer_config": {
+      "real_tasks_count": 1,
+      "golden_tasks_count": 0,
+      "training_tasks_count": 0,
+      "min_real_tasks_count": 1,
+      "min_golden_tasks_count": 0,
+      "min_training_tasks_count": 0,
+      "force_last_assignment": true,
+      "force_last_assignment_delay_seconds": 60,
+      "mix_tasks_in_creation_order": false,
+      "shuffle_tasks_in_task_suite": true
+    },
+    "defaults": {
+      "default_overlap_for_new_task_suites": 1,
+      "default_overlap_for_new_tasks": 1
+    },
+    "priority": 0,
+    "type": "REGULAR",
+    "status": "CLOSED",
+    "last_close_reason": "COMPLETED",
+    "created": "2026-11-17T15:37:12.321",
+    "last_started": "2026-11-17T23:28:00.319",
+    "last_stopped": "2026-11-17T23:33:00.058"
+  },
+  "tasks": [
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fda8e",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/304626426/original.jpeg",
+        "photo_id": "304626426",
+        "item_key": "evaluation:304626426:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.780",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fda92",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/584975273/original.jpg",
+        "photo_id": "584975273",
+        "item_key": "evaluation:584975273:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.804",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fda96",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/101049170/original.jpeg",
+        "photo_id": "101049170",
+        "item_key": "evaluation:101049170:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.835",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fda9a",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/405623051/original.jpg",
+        "photo_id": "405623051",
+        "item_key": "evaluation:405623051:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.865",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fda9e",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/304635308/original.jpeg",
+        "photo_id": "304635308",
+        "item_key": "evaluation:304635308:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.884",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fdaa2",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/670993200/original.jpg",
+        "photo_id": "670993200",
+        "item_key": "evaluation:670993200:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.909",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fdaa6",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/690800620/original.jpg",
+        "photo_id": "690800620",
+        "item_key": "evaluation:690800620:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.929",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fdaaa",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/232319015/original.jpg",
+        "photo_id": "232319015",
+        "item_key": "evaluation:232319015:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.953",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fdaae",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/303583978/original.jpeg",
+        "photo_id": "303583978",
+        "item_key": "evaluation:303583978:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.974",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d37e139c70ad6fdab2",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/705559412/original.jpg",
+        "photo_id": "705559412",
+        "item_key": "evaluation:705559412:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:55.996",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdab6",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/358071925/original.jpeg",
+        "photo_id": "358071925",
+        "item_key": "evaluation:358071925:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.013",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdaba",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/199719466/original.jpeg",
+        "photo_id": "199719466",
+        "item_key": "evaluation:199719466:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.037",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdabe",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/648272778/original.jpg",
+        "photo_id": "648272778",
+        "item_key": "evaluation:648272778:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.063",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdac2",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/150415826/original.jpg",
+        "photo_id": "150415826",
+        "item_key": "evaluation:150415826:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.087",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdac6",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/639373604/original.jpg",
+        "photo_id": "639373604",
+        "item_key": "evaluation:639373604:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.115",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdaca",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/44821264/original.jpg",
+        "photo_id": "44821264",
+        "item_key": "evaluation:44821264:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.138",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdace",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/739280063/original.jpg",
+        "photo_id": "739280063",
+        "item_key": "evaluation:739280063:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.161",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdad2",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/690760752/original.jpg",
+        "photo_id": "690760752",
+        "item_key": "evaluation:690760752:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.187",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdad6",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/680218473/original.jpg",
+        "photo_id": "680218473",
+        "item_key": "evaluation:680218473:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.210",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdada",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/515346648/original.jpg",
+        "photo_id": "515346648",
+        "item_key": "evaluation:515346648:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.227",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdade",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/396988812/original.jpg",
+        "photo_id": "396988812",
+        "item_key": "evaluation:396988812:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.258",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdae2",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/43463654/original.jpeg",
+        "photo_id": "43463654",
+        "item_key": "evaluation:43463654:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.283",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdae6",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/743452862/original.jpg",
+        "photo_id": "743452862",
+        "item_key": "evaluation:743452862:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.308",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdaea",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/629763988/original.jpg",
+        "photo_id": "629763988",
+        "item_key": "evaluation:629763988:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.333",
+      "remaining_overlap": 0
+    },
+    {
+      "id": "000068cedc--6afc74d47e139c70ad6fdaee",
+      "input_values": {
+        "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/704063226/original.jpg",
+        "photo_id": "704063226",
+        "item_key": "evaluation:704063226:v1",
+        "mode": "bbox"
+      },
+      "pool_id": "6868700",
+      "overlap": 1,
+      "infinite_overlap": false,
+      "reserved_for": [],
+      "unavailable_for": [],
+      "created": "2026-11-17T15:37:56.362",
+      "remaining_overlap": 0
+    }
+  ],
+  "assignments": [
+    {
+      "id": "000068cedc--6afce30fee5596557a6797af",
+      "task_suite_id": "000068cedc--6afce30fee5596557a6797aa",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdac6",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/639373604/original.jpg",
+            "photo_id": "639373604",
+            "item_key": "evaluation:639373604:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.115",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [],
+            "status": "NO_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:28:15.287",
+      "submitted": "2026-11-17T23:28:22.251"
+    },
+    {
+      "id": "000068cedc--6afce316fe68256bfdc23dc7",
+      "task_suite_id": "000068cedc--6afce316fe68256bfdc23dc5",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdade",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/396988812/original.jpg",
+            "photo_id": "396988812",
+            "item_key": "evaluation:396988812:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.258",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.1804443359375,
+                "top": 0.1675,
+                "width": 0.6533984375,
+                "height": 0.6300000000000001
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:28:22.839",
+      "submitted": "2026-11-17T23:28:33.422"
+    },
+    {
+      "id": "000068cedc--6afce321fe68256bfdc23e83",
+      "task_suite_id": "000068cedc--6afce321fe68256bfdc23e81",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fda92",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/584975273/original.jpg",
+            "photo_id": "584975273",
+            "item_key": "evaluation:584975273:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.804",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.348248291015625,
+                "top": 0.35,
+                "width": 0.17495727539062494,
+                "height": 0.21750000000000003
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:28:33.826",
+      "submitted": "2026-11-17T23:28:41.331"
+    },
+    {
+      "id": "000068cedc--6afce329ebb1521ae8ff3cd0",
+      "task_suite_id": "000068cedc--6afce329ebb1521ae8ff3cce",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdaca",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/44821264/original.jpg",
+            "photo_id": "44821264",
+            "item_key": "evaluation:44821264:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.138",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [],
+            "status": "NO_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:28:41.728",
+      "submitted": "2026-11-17T23:28:46.771"
+    },
+    {
+      "id": "000068cedc--6afce32f1fe8560b8a97fd89",
+      "task_suite_id": "000068cedc--6afce32f1fe8560b8a97fd87",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdabe",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/648272778/original.jpg",
+            "photo_id": "648272778",
+            "item_key": "evaluation:648272778:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.063",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [],
+            "status": "NO_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:28:47.106",
+      "submitted": "2026-11-17T23:28:50.137"
+    },
+    {
+      "id": "000068cedc--6afce332409e22184ef9f889",
+      "task_suite_id": "000068cedc--6afce332409e22184ef9f887",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdae6",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/743452862/original.jpg",
+            "photo_id": "743452862",
+            "item_key": "evaluation:743452862:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.308",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.3640581162324649,
+                "top": 0.2825,
+                "width": 0.16915831663326647,
+                "height": 0.40249999999999997
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:28:50.493",
+      "submitted": "2026-11-17T23:28:59.910"
+    },
+    {
+      "id": "000068cedc--6afce33c1fe8560b8a97fdd3",
+      "task_suite_id": "000068cedc--6afce33c1fe8560b8a97fdd1",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdaee",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/704063226/original.jpg",
+            "photo_id": "704063226",
+            "item_key": "evaluation:704063226:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.362",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.31666666666666665,
+                "top": 0.3375,
+                "width": 0.18666666666666665,
+                "height": 0.11499999999999999
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:29:00.300",
+      "submitted": "2026-11-17T23:29:08.559"
+    },
+    {
+      "id": "000068cedc--6afce3461fe8560b8a97fe07",
+      "task_suite_id": "000068cedc--6afce3461fe8560b8a97fe05",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fdaa6",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/690800620/original.jpg",
+            "photo_id": "690800620",
+            "item_key": "evaluation:690800620:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.929",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.20514042126379137,
+                "top": 0.1975,
+                "width": 0.43763289869608824,
+                "height": 0.565
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:29:10.913",
+      "submitted": "2026-11-17T23:29:25.203"
+    },
+    {
+      "id": "000068cedc--6afce35555eb9f701dc05877",
+      "task_suite_id": "000068cedc--6afce35555eb9f701dc05875",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdaba",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/199719466/original.jpeg",
+            "photo_id": "199719466",
+            "item_key": "evaluation:199719466:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.037",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.075,
+                "top": 0.1225,
+                "width": 0.685,
+                "height": 0.7050000000000001
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:29:25.547",
+      "submitted": "2026-11-17T23:29:36.637"
+    },
+    {
+      "id": "000068cedc--6afce36105a3672b202708d9",
+      "task_suite_id": "000068cedc--6afce36005a3672b202708d5",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdab6",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/358071925/original.jpeg",
+            "photo_id": "358071925",
+            "item_key": "evaluation:358071925:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.013",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.44489135742187497,
+                "top": 0.46749999999999997,
+                "width": 0.168292236328125,
+                "height": 0.2675
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:29:37.057",
+      "submitted": "2026-11-17T23:29:44.038"
+    },
+    {
+      "id": "000068cedc--6afce368d5d23603d676871d",
+      "task_suite_id": "000068cedc--6afce368d5d23603d676871b",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdaea",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/629763988/original.jpg",
+            "photo_id": "629763988",
+            "item_key": "evaluation:629763988:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.333",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.39499999999999996,
+                "top": 0.3375,
+                "width": 0.2575,
+                "height": 0.22999999999999998
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:29:44.480",
+      "submitted": "2026-11-17T23:29:51.343"
+    },
+    {
+      "id": "000068cedc--6afce36f3537ac5dbb4054f1",
+      "task_suite_id": "000068cedc--6afce36f3537ac5dbb4054ef",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fda9a",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/405623051/original.jpg",
+            "photo_id": "405623051",
+            "item_key": "evaluation:405623051:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.865",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.17437499999999997,
+                "top": 0.10749999999999998,
+                "width": 0.6,
+                "height": 0.6299999999999999
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:29:51.726",
+      "submitted": "2026-11-17T23:30:02.310"
+    },
+    {
+      "id": "000068cedc--6afce37aee5596557a679f17",
+      "task_suite_id": "000068cedc--6afce37aee5596557a679f15",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdac2",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/150415826/original.jpg",
+            "photo_id": "150415826",
+            "item_key": "evaluation:150415826:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.087",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.36886227544910183,
+                "top": 0.245,
+                "width": 0.3578842315369261,
+                "height": 0.4375
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:30:02.698",
+      "submitted": "2026-11-17T23:30:12.178"
+    },
+    {
+      "id": "000068cedc--6afce384d5d23603d676898f",
+      "task_suite_id": "000068cedc--6afce384d5d23603d676898d",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fdaae",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/303583978/original.jpeg",
+            "photo_id": "303583978",
+            "item_key": "evaluation:303583978:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.974",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.37333333333333335,
+                "top": 0.4225,
+                "width": 0.29,
+                "height": 0.13750000000000007
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:30:12.554",
+      "submitted": "2026-11-17T23:30:19.611"
+    },
+    {
+      "id": "000068cedc--6afce38c1fe8560b8a9802fb",
+      "task_suite_id": "000068cedc--6afce38c1fe8560b8a9802f9",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fda9e",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/304635308/original.jpeg",
+            "photo_id": "304635308",
+            "item_key": "evaluation:304635308:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.884",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.30898437500000003,
+                "top": 0.24000000000000005,
+                "width": 0.2703613281250001,
+                "height": 0.34500000000000003
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:30:20.263",
+      "submitted": "2026-11-17T23:30:30.205"
+    },
+    {
+      "id": "000068cedc--6afce396fe68256bfdc24660",
+      "task_suite_id": "000068cedc--6afce396fe68256bfdc2465e",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdad2",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/690760752/original.jpg",
+            "photo_id": "690760752",
+            "item_key": "evaluation:690760752:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.187",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.36333333333333334,
+                "top": 0.1075,
+                "width": 0.1866666666666666,
+                "height": 0.14750000000000002
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:30:30.462",
+      "submitted": "2026-11-17T23:30:38.218"
+    },
+    {
+      "id": "000068cedc--6afce39e1fe8560b8a9803a0",
+      "task_suite_id": "000068cedc--6afce39e1fe8560b8a98039e",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fdaaa",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/232319015/original.jpg",
+            "photo_id": "232319015",
+            "item_key": "evaluation:232319015:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.953",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.2690033783783784,
+                "top": 0.34,
+                "width": 0.2867398648648648,
+                "height": 0.17749999999999994
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:30:38.588",
+      "submitted": "2026-11-17T23:30:43.198"
+    },
+    {
+      "id": "000068cedc--6afce3a3d5d23603d6768b4d",
+      "task_suite_id": "000068cedc--6afce3a3d5d23603d6768b4a",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdae2",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/43463654/original.jpeg",
+            "photo_id": "43463654",
+            "item_key": "evaluation:43463654:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.283",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.406875,
+                "top": 0.23249999999999996,
+                "width": 0.21187499999999992,
+                "height": 0.5175000000000001
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:30:43.693",
+      "submitted": "2026-11-17T23:30:50.379"
+    },
+    {
+      "id": "000068cedc--6afce3abed421b4afbfa6ca2",
+      "task_suite_id": "000068cedc--6afce3abed421b4afbfa6ca0",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdace",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/739280063/original.jpg",
+            "photo_id": "739280063",
+            "item_key": "evaluation:739280063:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.161",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.22212581344902388,
+                "top": 0.24,
+                "width": 0.35540130151843813,
+                "height": 0.26749999999999996
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:30:51.199",
+      "submitted": "2026-11-17T23:30:58.683"
+    },
+    {
+      "id": "000068cedc--6afce3b205a3672b20270d8f",
+      "task_suite_id": "000068cedc--6afce3b205a3672b20270d8d",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fda8e",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/304626426/original.jpeg",
+            "photo_id": "304626426",
+            "item_key": "evaluation:304626426:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.780",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.3686040609137056,
+                "top": 0.1425,
+                "width": 0.4293845177664975,
+                "height": 0.645
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:30:58.968",
+      "submitted": "2026-11-17T23:31:06.815"
+    },
+    {
+      "id": "000068cedc--6afce3b9d5d23603d6768c4d",
+      "task_suite_id": "000068cedc--6afce3b9d5d23603d6768c4b",
+      "pool_id": "6868700",
+      "user_id": "worker_9ff128d8fe918d79",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fda96",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/101049170/original.jpeg",
+            "photo_id": "101049170",
+            "item_key": "evaluation:101049170:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.835",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.1369115070093458,
+                "top": 0.0775,
+                "width": 0.7129731308411216,
+                "height": 0.775
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:31:05.503",
+      "submitted": "2026-11-17T23:31:25.636"
+    },
+    {
+      "id": "000068cedc--6afce3bb05a3672b20270e0e",
+      "task_suite_id": "000068cedc--6afce3bb05a3672b20270e0c",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdada",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/515346648/original.jpg",
+            "photo_id": "515346648",
+            "item_key": "evaluation:515346648:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.227",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [],
+            "status": "NO_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:31:07.101",
+      "submitted": "2026-11-17T23:31:11.247"
+    },
+    {
+      "id": "000068cedc--6afce3bf55eb9f701dc05fd4",
+      "task_suite_id": "000068cedc--6afce3bf55eb9f701dc05fd2",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d47e139c70ad6fdad6",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/680218473/original.jpg",
+            "photo_id": "680218473",
+            "item_key": "evaluation:680218473:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:56.210",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.0347509765625,
+                "top": 0.22749999999999998,
+                "width": 0.7250317382812499,
+                "height": 0.7075
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:31:11.622",
+      "submitted": "2026-11-17T23:31:26.179"
+    },
+    {
+      "id": "000068cedc--6afce3cdb0dc860f4154e6b5",
+      "task_suite_id": "000068cedc--6afce3cdb0dc860f4154e6b3",
+      "pool_id": "6868700",
+      "user_id": "worker_9ff128d8fe918d79",
+      "status": "SKIPPED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fdaa2",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/670993200/original.jpg",
+            "photo_id": "670993200",
+            "item_key": "evaluation:670993200:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.909",
+          "remaining_overlap": 0
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:31:25.947",
+      "skipped": "2026-11-17T23:31:29.584"
+    },
+    {
+      "id": "000068cedc--6afce3ceed421b4afbfa6e0e",
+      "task_suite_id": "000068cedc--6afce3ceed421b4afbfa6e0c",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fdab2",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/705559412/original.jpg",
+            "photo_id": "705559412",
+            "item_key": "evaluation:705559412:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.996",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.33,
+                "top": 0.1975,
+                "width": 0.12,
+                "height": 0.14250000000000002
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:31:26.678",
+      "submitted": "2026-11-17T23:31:36.791"
+    },
+    {
+      "id": "000068cedc--6afce3d9ee5596557a67a590",
+      "task_suite_id": "000068cedc--6afce3d9ee5596557a67a58e",
+      "pool_id": "6868700",
+      "user_id": "worker_98674858f5ed0043",
+      "status": "SUBMITTED",
+      "reward": 0.1,
+      "tasks": [
+        {
+          "id": "000068cedc--6afc74d37e139c70ad6fdaa2",
+          "input_values": {
+            "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/670993200/original.jpg",
+            "photo_id": "670993200",
+            "item_key": "evaluation:670993200:v1",
+            "mode": "bbox"
+          },
+          "pool_id": "6868700",
+          "overlap": 1,
+          "infinite_overlap": false,
+          "reserved_for": [],
+          "unavailable_for": [],
+          "created": "2026-11-17T15:37:55.909",
+          "remaining_overlap": 0
+        }
+      ],
+      "solutions": [
+        {
+          "output_values": {
+            "result": [
+              {
+                "shape": "rectangle",
+                "left": 0.6334443765281174,
+                "top": 0.4425,
+                "width": 0.22154951100244502,
+                "height": 0.2825
+              }
+            ],
+            "status": "HAS_BUTTERFLY"
+          }
+        }
+      ],
+      "mixed": true,
+      "automerged": false,
+      "created": "2026-11-17T23:31:37.275",
+      "submitted": "2026-11-17T23:31:42.746"
+    }
+  ],
+  "evidence_observed_at": "2026-11-19T12:41:03.471756+00:00"
+}

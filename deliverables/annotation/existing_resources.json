@@ -1,0 +1,68 @@
+{
+  "objects": {
+    "bbox": {
+      "id": "11882",
+      "resource": "projects"
+    },
+    "review": {
+      "id": "11883",
+      "resource": "projects"
+    },
+    "bbox_training": {
+      "id": "6868694",
+      "resource": "trainings"
+    },
+    "review_training": {
+      "id": "6868695",
+      "resource": "trainings"
+    },
+    "bbox_exam": {
+      "id": "6868698",
+      "resource": "pools"
+    },
+    "review_exam": {
+      "id": "6868696",
+      "resource": "pools"
+    },
+    "review_bbox_exam": {
+      "id": "6868699",
+      "resource": "pools"
+    },
+    "bbox_pilot": {
+      "id": "6868700",
+      "resource": "pools"
+    },
+    "review_pilot": {
+      "id": "6868701",
+      "resource": "pools"
+    },
+    "bbox_main": {
+      "id": "6869016",
+      "resource": "pools"
+    },
+    "review_main": {
+      "id": "6868703",
+      "resource": "pools"
+    },
+    "bbox_exam_score": {
+      "id": "21593",
+      "resource": "skills"
+    },
+    "bbox_access": {
+      "id": "21594",
+      "resource": "skills"
+    },
+    "review_exam_score": {
+      "id": "21591",
+      "resource": "skills"
+    },
+    "review_control_score": {
+      "id": "21592",
+      "resource": "skills"
+    },
+    "bbox_rework": {
+      "id": "6869934",
+      "resource": "pools"
+    }
+  }
+}

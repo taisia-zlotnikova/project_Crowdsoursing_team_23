@@ -1,0 +1,37 @@
+{
+  "accepted_rewards_rub": 47.7,
+  "accepted_plus_commission_estimate_rub": 66.78,
+  "pending_rewards_reserve_rub": 213.37,
+  "accepted_plus_pending_rub": 261.07,
+  "accepted_plus_pending_plus_commission_estimate_rub": 365.5,
+  "commission_rate_assumed": 0.4,
+  "unknown_reward_assignment_ids": [],
+  "status_counts": {
+    "EXPIRED": 100,
+    "ACCEPTED": 283,
+    "SUBMITTED": 724,
+    "SKIPPED": 6,
+    "REJECTED": 2,
+    "ACTIVE": 1
+  },
+  "by_stage": {
+    "training": {
+      "accepted": 0.0
+    },
+    "exam": {
+      "accepted": 43.0,
+      "pending": 72.75
+    },
+    "bbox": {
+      "pending": 40.0
+    },
+    "review": {
+      "pending": 100.62
+    },
+    "rework": {
+      "accepted": 4.7
+    }
+  },
+  "coverage": "Historical local snapshots, latest observation per pool/assignment; refresh via notebook 03 for current status.",
+  "limitations": "Not a billing statement. Bonuses, taxes/refunds/transactions not included. Pending is a reserve, not an expense. Missing reward is unknown, never replaced with current pool price."
+}
