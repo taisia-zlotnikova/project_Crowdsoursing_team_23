@@ -1,16 +1,17 @@
 # Чистовая версия процесса разметки
 
-Отдельный код; старые notebooks и scripts не удалены и не импортируются. Никакие пулы этим коммитом не открывались. Все новые ноутбуки сохранены без токенов, выводов и traceback.
+Четыре последовательных ноутбука и самостоятельный API-код для разметки,
+независимого REVIEW, переразметки и экспорта эталонного датасета.
+Процесс не зависит от старых notebooks и scripts.
 
 ## Запуск
 
 Из корня проекта:
 
 ```bash
-python3 -m venv .venv-clean
-source .venv-clean/bin/activate
-pip install -r clean_annotation/requirements.txt
-jupyter lab
+python3.13 -m venv .venv
+.venv/bin/python -m pip install -r clean_annotation/requirements.txt
+.venv/bin/jupyter lab
 ```
 
 1. **01_setup_and_settings.ipynb** — единая конфигурация, оценка бюджета, подключение текущих ресурсов либо создание самостоятельного закрытого набора, отдельная смена цены/перекрытия.
@@ -59,4 +60,11 @@ python3 -m unittest discover -s clean_annotation/tests -v
 
 ## Что ещё требуется для защиты
 
-Материалы разметки подготовлены. Эксперименты моделей, лидерборд, предсказания и вклад участников нельзя восстановить из ответов разметчиков — команда должна добавить их отдельно. Обязательные модели: Grounding DINO tiny, OWLv2 base, Qwen3-VL-2B-Instruct. Метрики: F1/precision/recall @IoU0.5, F1@IoU0.75, ложные срабатывания на отрицательных фото и время. Лучшая конфигурация выбирается по F1@IoU0.5. Контест: https://contest.yandex.ru/contest/103082/ — предсказания выбранной модели отправляет капитан.
+Запуск Grounding DINO tiny, OWLv2 base и Qwen3-VL-2B-Instruct, расчёт метрик,
+дашборд и абляция описаны в [корневом README](../README.md).
+Эталон из `exports/final_butterflies_v1/annotations.csv` также опубликован
+как `data/annotations.csv` для конвейера инференса.
+Для защиты приложите манифесты и отчёты запусков, сравнение моделей и вклад
+участников. Лучшая конфигурация выбирается по F1@IoU0.5.
+Контест: https://contest.yandex.ru/contest/103082/ — предсказания выбранной модели
+отправляет капитан.

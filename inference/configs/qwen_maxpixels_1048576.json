@@ -1,0 +1,25 @@
+{
+  "seed": 42,
+  "models": {
+    "grounding-dino": {
+      "prompt": "butterfly. moth.",
+      "confidence": 0.25,
+      "text_threshold": 0.25,
+      "nms_iou": 0.5
+    },
+    "owlv2": {
+      "queries": [
+        "a photo of a butterfly",
+        "a photo of a moth"
+      ],
+      "confidence": 0.1,
+      "nms_iou": 0.5
+    },
+    "qwen3-vl": {
+      "prompt": "Locate every visible adult butterfly or moth in this image. Treat butterflies and moths as one target class. Exclude caterpillars, pupae, cocoons, other insects, and shadows. Draw one tight bounding box around the visible parts of each target, including wings, body, antennae, and legs. Return ONLY a JSON array of objects with this exact format: [{\"bbox_2d\": [xmin, ymin, xmax, ymax]}]. Use integer coordinates from 0 to 1000, normalized relative to the full image width and height. Return [] if there are no adult butterflies or moths. Do not include labels, confidence scores, markdown, or explanations.",
+      "min_pixels": 65536,
+      "max_pixels": 1048576,
+      "max_new_tokens": 512
+    }
+  }
+}

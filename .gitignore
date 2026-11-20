@@ -15,3 +15,8 @@ data/images/original/
 .venv-clean/
 clean_annotation/private/
 README_legacy_local.md
+
+# Inference caches and generated results
+data/images/
+runs/
+.pytest_cache/
