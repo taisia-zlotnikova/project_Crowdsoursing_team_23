@@ -33,6 +33,7 @@ python3.13 -m venv .venv
 ## Структура проекта
 
 ```text
+data_collection/    # сбор CC0-фотографий, проверка и инструкция
 clean_annotation/   # ноутбуки, API-код и воспроизводимый экспорт разметки
 deliverables/       # ответы, REVIEW, расходы и материалы защиты
 exports/            # финальный датасет в CSV/JSON/JSONL/COCO/YOLO
@@ -49,7 +50,7 @@ dashboard/app.py    # интерактивный просмотр результ
 data/               # ссылки на изображения и аннотации
 experiments/        # описания экспериментов
 tests/              # проверки конвейера и дашборда
-runs/               # результаты локальных запусков
+runs/               # результаты локальных запусков (не лежит в репозитории и игнорируется git)
 ```
 
 ## Разметка и независимый REVIEW
@@ -321,7 +322,7 @@ F1, Precision и Recall для датасета без эталонных рам
 ## Материалы проекта
 
 - [Условие проекта](final_project_readme_2026.md)
-- [Сбор данных](1_data_collection.md), [код сбора](scripts/inaturalist_dataset.py)
+- [Сбор данных](data_collection/README.md), [код сбора](data_collection/inaturalist_dataset.py)
 - [Инструкция BBOX](butterfly-box.html), [инструкция REVIEW](butterfly-review.html)
 - [Материалы и оставшиеся пункты защиты](deliverables/DEFENSE_CHECKLIST.md)
 

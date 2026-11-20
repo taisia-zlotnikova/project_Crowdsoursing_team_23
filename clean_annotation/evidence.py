@@ -105,22 +105,7 @@ def export():
     save(OUT/'clean_config.json',config())
     registry=read(BASE/'private/existing_registry.json') if (BASE/'private/existing_registry.json').exists() else {'objects':read(OUT/'existing_resources.json')['objects']}
     save(OUT/'existing_resources.json',{'objects':{k:{'id':v['id'],'resource':v['resource']} for k,v in registry['objects'].items()}})
-    (OUT/'README.md').write_text('''# Материалы разметки для репозитория и защиты
-
-- raw/: последние доступные снимки пулов, исходные tasks/assignments/solutions, known_solutions и конфигурация.
-- assignment_ledger.csv: одна строка на выдачу страницы; дубликаты выгрузок исключены.
-- budget.json: принятые выплаты, ожидающие приёмки и отдельно расчёт комиссии 40%.
-- pool_inventory.csv/json: ссылки на проекты/пулы, параметры и время наблюдения.
-- snapshot_history.json: происхождение использованных снимков.
-- decisions/: REVIEW и ручные решения, происхождение финальной версии.
-- HTML-инструкции, шаблоны проектов и чистовая конфигурация экзаменов/допуска/качества.
-- final_corrections*: три последних ручных исправления и их соответствие фотографиям.
-- dataset_statistics.json: итоговые 400 фото и рамки; сам датасет — ../../exports/final_butterflies_v1/.
-
-Идентификаторы исполнителей согласованно псевдонимизированы; исходные непереработанные ответы остаются в platform/private/ и не входят в публичный архив. Содержание ответов и координаты сохранены. При необходимости преподавателю можно передать закрытый исходный архив отдельно. Здесь опубликованы только исторические доступные снимки; незагруженные ответы не считаются отсутствующими. Расходы по статусам — не банковская выписка, бонусы/возвраты отдельно не получены.
-
-Ссылки API: https://yandex.ru/dev/tasks-api/doc/ru/reference/assignments/get-assignments ; https://yandex.ru/support/tasks-requester/ru/guide/offline-accept
-''')
+    (OUT/'README.md').unlink(missing_ok=True)
     hashes={str(p.relative_to(OUT)):hashlib.sha256(p.read_bytes()).hexdigest() for p in OUT.rglob('*') if p.is_file() and p.name!='SHA256SUMS.json'};save(OUT/'SHA256SUMS.json',hashes)
     with ZipFile(OUT.parent/'annotation_evidence.zip','w',ZIP_DEFLATED) as archive:
         for p in OUT.rglob('*'):

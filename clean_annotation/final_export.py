@@ -89,7 +89,7 @@ def export(root):
         writer=csv.DictWriter(f,fieldnames=list(records[0]));writer.writeheader()
         for r in records:writer.writerow({k:json.dumps(v,ensure_ascii=False) if isinstance(v,list) else v for k,v in r.items()})
     ya.save_json(out/'coco.json',{'info':{'description':'Butterfly bbox dataset, final v1; image dimensions from validated collection manifest'},'images':coco_images,'annotations':coco_boxes,'categories':[{'id':1,'name':'butterfly'}]})
-    (out/'yolo/README.md').write_text('Class 0 = butterfly. Labels: normalized center_x center_y width height. Empty labels are negative images.\nImages are not bundled. Download from ../images_manifest.csv and save as <photo_id>.jpg in images/. No train/val split has been assigned.\n')
+    (out/'yolo/README.md').unlink(missing_ok=True)
     with (out/'images_manifest.csv').open('w',encoding='utf-8-sig',newline='') as f:
         writer=csv.DictWriter(f,fieldnames=['photo_id','file_name','image_url','width','height','photo_license']);writer.writeheader()
         writer.writerows({k:r[k] for k in writer.fieldnames} for r in records)
