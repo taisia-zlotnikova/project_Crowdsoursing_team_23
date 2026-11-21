@@ -1,0 +1,12 @@
+{
+  "sessions": [
+    {
+      "started_at": "2026-11-21T08:45:37.287644+00:00",
+      "status": "complete",
+      "load_seconds": 0.6423838339978829,
+      "dtype": "torch.float32",
+      "device": "mps:0",
+      "wall_seconds": 126.13332724990323
+    }
+  ]
+}

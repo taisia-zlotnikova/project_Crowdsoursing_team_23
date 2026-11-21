@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "models": {
+    "owlv2": {
+      "queries": ["a photo of a butterfly", "a photo of a moth"],
+      "confidence": 0.3,
+      "nms_iou": 0.5
+    }
+  }
+}

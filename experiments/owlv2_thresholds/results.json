@@ -1,0 +1,223 @@
+{
+  "generated_at_utc": "2026-11-21T08:51:21.374143+00:00",
+  "dataset_sha256": "efc87cc902b5492625821707e2f4062f1535e1190d6a0261a91088c1a250843a",
+  "images": 400,
+  "reference_boxes": 358,
+  "hypothesis_prespecified_at_utc": "2026-11-21T08:43:02.578110+00:00",
+  "runs": [
+    {
+      "threshold": 0.1,
+      "run": "runs/owlv2-confidence-01",
+      "config": "inference/configs/owlv2_confidence_01.json",
+      "status": "complete",
+      "scope": "full",
+      "images": 400,
+      "technical_errors": 0,
+      "quality": {
+        "by_iou": {
+          "0.5": {
+            "tp": 346,
+            "fp": 358,
+            "fn": 12,
+            "precision": 0.4914772727272727,
+            "recall": 0.9664804469273743,
+            "f1": 0.6516007532956686
+          },
+          "0.75": {
+            "tp": 244,
+            "fp": 460,
+            "fn": 114,
+            "precision": 0.3465909090909091,
+            "recall": 0.6815642458100558,
+            "f1": 0.4595103578154426
+          }
+        },
+        "negative_images": 46,
+        "negative_images_with_false_positives": 16,
+        "false_positive_boxes_on_negative_images": 20,
+        "negative_image_false_positive_rate": 0.34782608695652173
+      },
+      "timing": {
+        "successful_images_timed": 400,
+        "successful_inference_seconds": 119.00889325118624,
+        "mean_inference_seconds": 0.2975222331279656,
+        "median_inference_seconds": 0.3015968339750543,
+        "p95_inference_seconds": 0.31478408398106694,
+        "all_attempt_inference_seconds": 119.00889325118624,
+        "image_io_seconds": 4.994551585521549,
+        "all_attempt_seconds": 124.00989200454205,
+        "load_seconds": 0.8794823330827057,
+        "wall_seconds": 126.50768037501257,
+        "attempts": 400
+      }
+    },
+    {
+      "threshold": 0.2,
+      "run": "runs/owlv2-confidence-02",
+      "config": "inference/configs/owlv2_confidence_02.json",
+      "status": "complete",
+      "scope": "full",
+      "images": 400,
+      "technical_errors": 0,
+      "quality": {
+        "by_iou": {
+          "0.5": {
+            "tp": 340,
+            "fp": 108,
+            "fn": 18,
+            "precision": 0.7589285714285714,
+            "recall": 0.9497206703910615,
+            "f1": 0.8436724565756824
+          },
+          "0.75": {
+            "tp": 242,
+            "fp": 206,
+            "fn": 116,
+            "precision": 0.5401785714285714,
+            "recall": 0.6759776536312849,
+            "f1": 0.6004962779156328
+          }
+        },
+        "negative_images": 46,
+        "negative_images_with_false_positives": 9,
+        "false_positive_boxes_on_negative_images": 9,
+        "negative_image_false_positive_rate": 0.1956521739130435
+      },
+      "timing": {
+        "successful_images_timed": 400,
+        "successful_inference_seconds": 119.20977103605401,
+        "mean_inference_seconds": 0.29802442759013503,
+        "median_inference_seconds": 0.30239852046361193,
+        "p95_inference_seconds": 0.3159762079594657,
+        "all_attempt_inference_seconds": 119.20977103605401,
+        "image_io_seconds": 4.958884947584011,
+        "all_attempt_seconds": 124.17471896158531,
+        "load_seconds": 0.6423838339978829,
+        "wall_seconds": 126.13332724990323,
+        "attempts": 400
+      }
+    },
+    {
+      "threshold": 0.3,
+      "run": "runs/owlv2-confidence-03",
+      "config": "inference/configs/owlv2_confidence_03.json",
+      "status": "complete",
+      "scope": "full",
+      "images": 400,
+      "technical_errors": 0,
+      "quality": {
+        "by_iou": {
+          "0.5": {
+            "tp": 335,
+            "fp": 53,
+            "fn": 23,
+            "precision": 0.8634020618556701,
+            "recall": 0.9357541899441341,
+            "f1": 0.8981233243967829
+          },
+          "0.75": {
+            "tp": 239,
+            "fp": 149,
+            "fn": 119,
+            "precision": 0.615979381443299,
+            "recall": 0.6675977653631285,
+            "f1": 0.6407506702412868
+          }
+        },
+        "negative_images": 46,
+        "negative_images_with_false_positives": 8,
+        "false_positive_boxes_on_negative_images": 8,
+        "negative_image_false_positive_rate": 0.17391304347826086
+      },
+      "timing": {
+        "successful_images_timed": 400,
+        "successful_inference_seconds": 118.61616654519457,
+        "mean_inference_seconds": 0.29654041636298645,
+        "median_inference_seconds": 0.2998785210074857,
+        "p95_inference_seconds": 0.31288554100319743,
+        "all_attempt_inference_seconds": 118.61616654519457,
+        "image_io_seconds": 4.914352579973638,
+        "all_attempt_seconds": 123.53605511353817,
+        "load_seconds": 0.6468286250019446,
+        "wall_seconds": 125.4341485000914,
+        "attempts": 400
+      }
+    }
+  ],
+  "best_threshold": 0.3,
+  "controls": {
+    "only_confidence_changed": true,
+    "same_photo_ids_in_order": true,
+    "same_image_bytes_sha256": true,
+    "same_weights_code_versions_device": true,
+    "three_independent_complete_sessions": true,
+    "one_attempt_per_image": true,
+    "all_inputs_cached": true
+  },
+  "previous_runs_source": {
+    "archive_name": "project_Crowdsoursing_team_23_runs_backup_2026-11-20.tar.gz",
+    "sha256": "5f431a85644e99ad3880d0695e03e8ff3eaa4c51e8334f8acca26ed34e59caf9",
+    "runs": [
+      {
+        "run": "runs/qwen-maxpixels-1048576",
+        "model": "qwen3-vl",
+        "f1_at_05": 0.9874826147426982,
+        "quality": {
+          "by_iou": {
+            "0.5": {
+              "tp": 355,
+              "fp": 6,
+              "fn": 3,
+              "precision": 0.9833795013850416,
+              "recall": 0.9916201117318436,
+              "f1": 0.9874826147426982
+            },
+            "0.75": {
+              "tp": 326,
+              "fp": 35,
+              "fn": 32,
+              "precision": 0.9030470914127424,
+              "recall": 0.9106145251396648,
+              "f1": 0.9068150208623088
+            }
+          },
+          "negative_images": 46,
+          "negative_images_with_false_positives": 5,
+          "false_positive_boxes_on_negative_images": 5,
+          "negative_image_false_positive_rate": 0.10869565217391304
+        },
+        "timing": {
+          "successful_images_timed": 400,
+          "successful_inference_seconds": 1346.4855297199683,
+          "mean_inference_seconds": 3.366213824299921,
+          "median_inference_seconds": 3.468804791511502,
+          "p95_inference_seconds": 4.23239849996753,
+          "all_attempt_inference_seconds": 1346.4855297199683,
+          "image_io_seconds": 5.071560487267561,
+          "all_attempt_seconds": 1351.5650135902688,
+          "load_seconds": 5.91273404203821,
+          "wall_seconds": 1359.6198039159644,
+          "attempts": 400
+        },
+        "weight": {
+          "model_id": "Qwen/Qwen3-VL-2B-Instruct",
+          "revision": "89644892e4d85e24eaac8bacfd4f463576704203"
+        },
+        "settings": {
+          "prompt": "Locate every visible adult butterfly or moth in this image. Treat butterflies and moths as one target class. Exclude caterpillars, pupae, cocoons, other insects, and shadows. Draw one tight bounding box around the visible parts of each target, including wings, body, antennae, and legs. Return ONLY a JSON array of objects with this exact format: [{\"bbox_2d\": [xmin, ymin, xmax, ymax]}]. Use integer coordinates from 0 to 1000, normalized relative to the full image width and height. Return [] if there are no adult butterflies or moths. Do not include labels, confidence scores, markdown, or explanations.",
+          "min_pixels": 65536,
+          "max_pixels": 1048576,
+          "max_new_tokens": 512
+        }
+      }
+    ]
+  },
+  "selected_model": "qwen3-vl",
+  "selected_f1_at_05": 0.9874826147426982,
+  "selected_settings": {
+    "prompt": "Locate every visible adult butterfly or moth in this image. Treat butterflies and moths as one target class. Exclude caterpillars, pupae, cocoons, other insects, and shadows. Draw one tight bounding box around the visible parts of each target, including wings, body, antennae, and legs. Return ONLY a JSON array of objects with this exact format: [{\"bbox_2d\": [xmin, ymin, xmax, ymax]}]. Use integer coordinates from 0 to 1000, normalized relative to the full image width and height. Return [] if there are no adult butterflies or moths. Do not include labels, confidence scores, markdown, or explanations.",
+    "min_pixels": 65536,
+    "max_pixels": 1048576,
+    "max_new_tokens": 512
+  }
+}
